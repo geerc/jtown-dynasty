@@ -1,7 +1,7 @@
 ---
-title: Week (WEEK) Report
-date: 2020-MONTH-DAY
-image: /images/week(ADD WEEK NUMBER HERE).jpg
+title: Week 9 Report
+date: 2020-11-16
+image: /images/week9.jpg
 draft: false
 ---
 <!-- excerpt -->
@@ -29,7 +29,7 @@ draft: false
 | Red Zone  Rockets    |      6 |        7 | Pat Wagner       |
 | Sutton these  Nutz   |      4 |        9 | Lucas Neidich    |
 | Team Ger             |      4 |        9 | Christian Geer   |
-| Karate Kickin Kylers |      1 |       12 | Cade Lafferty    | 
+| Karate Kickin Kylers |      1 |       12 | Cade Lafferty    |
 
 *These standings do not account for tiebreakers
 
