@@ -1,14 +1,11 @@
 ---
-title:
+title: 
 date: 2020-10-14T16:34:00.000Z
-image: /images/week9.jpg
+image: /images/week(ADD WEEK NUMBER HERE).jpg
 draft: false
 ---
 
 ### WEEK  9  EXPECTED STANDINGS
-
-Week 9
-
 | Team                 |   Wins |   Losses | Owner            |
 |----------------------|--------|----------|------------------|
 | OC Gang              |     11 |        2 | Travis Geer      |
@@ -18,7 +15,7 @@ Week 9
 | Red Zone  Rockets    |      6 |        7 | Pat Wagner       |
 | Sutton these  Nutz   |      4 |        9 | Lucas Neidich    |
 | Team Ger             |      4 |        9 | Christian Geer   |
-| Karate Kickin Kylers |      1 |       12 | Cade Lafferty    |
+| Karate Kickin Kylers |      1 |       12 | Cade Lafferty    | 
 
 *These standings do not account for tiebreakers
 <!-- excerpt -->
@@ -37,9 +34,6 @@ Week 9
 |  8 | Karate Kickin Kylers |             8 |              55 |        19.7  |
 
 ### WEEK  9  LUCK INDEX
-
-Through Week 9
-
 | Team                 |   Luck Index | Owner            |
 |----------------------|--------------|------------------|
 | Game of  Jones       |         6.04 | william shields  |
