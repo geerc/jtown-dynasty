@@ -1,26 +1,12 @@
 ---
 title: Week 9 Report
-date: 2020-10-14T16:34:00.000Z
+date: 2020-11-16T16:34:00.000Z
 image: /images/week9.jpg
 draft: false
 ---
-
-### WEEK  9  EXPECTED STANDINGS
-| Team                 |   Wins |   Losses | Owner            |
-|----------------------|--------|----------|------------------|
-| OC Gang              |     11 |        2 | Travis Geer      |
-| Final Deztination    |      9 |        4 | trevor brockwell |
-| Game of  Jones       |      9 |        4 | william shields  |
-| Victorious Vikings   |      8 |        5 | Jack Herr        |
-| Red Zone  Rockets    |      6 |        7 | Pat Wagner       |
-| Sutton these  Nutz   |      4 |        9 | Lucas Neidich    |
-| Team Ger             |      4 |        9 | Christian Geer   |
-| Karate Kickin Kylers |      1 |       12 | Cade Lafferty    |
-
-*These standings do not account for tiebreakers
 <!-- excerpt -->
 
-### WEEK  9  POWER RANKINGS
+### POWER RANKINGS
 
 |    | team                 |   allPlayWins |   allPlayLosses |   PowerScore |
 |----|----------------------|---------------|-----------------|--------------|
@@ -33,7 +19,21 @@ draft: false
 |  7 | Sutton these  Nutz   |            20 |              43 |        45.11 |
 |  8 | Karate Kickin Kylers |             8 |              55 |        19.7  |
 
-### WEEK  9  LUCK INDEX
+### EXPECTED STANDINGS (as of week  9 )
+| Team                 |   Wins |   Losses | Owner            |
+|----------------------|--------|----------|------------------|
+| OC Gang              |     11 |        2 | Travis Geer      |
+| Final Deztination    |      9 |        4 | trevor brockwell |
+| Game of  Jones       |      9 |        4 | william shields  |
+| Victorious Vikings   |      8 |        5 | Jack Herr        |
+| Red Zone  Rockets    |      6 |        7 | Pat Wagner       |
+| Sutton these  Nutz   |      4 |        9 | Lucas Neidich    |
+| Team Ger             |      4 |        9 | Christian Geer   |
+| Karate Kickin Kylers |      1 |       12 | Cade Lafferty    |
+
+*These standings do not account for tiebreakers
+
+### LUCK INDEX
 | Team                 |   Luck Index | Owner            |
 |----------------------|--------------|------------------|
 | Game of  Jones       |         6.04 | william shields  |
