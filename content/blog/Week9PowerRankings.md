@@ -1,7 +1,7 @@
 ---
-title: Week 9 Report
-date: 2020-11-16
-image: /images/week9.jpg
+title: Week (WEEK) Report
+date: 2020-MONTH-DAY
+image: /images/week(ADD WEEK NUMBER HERE).jpg
 draft: false
 ---
 <!-- excerpt -->
@@ -11,13 +11,13 @@ draft: false
 |    | team                 | Weekly Change   |   allPlayWins |   allPlayLosses |   PowerScore |
 |----|----------------------|-----------------|---------------|-----------------|--------------|
 |  1 | OC Gang              | ⬆️ 1            |            51 |              12 |       120.46 |
-|  2 | Final Deztination    | ↔️  0           |            43 |              20 |       100.56 |
+|  2 | Final Deztination    |                 |            43 |              20 |       100.56 |
 |  3 | Victorious Vikings   | ⬇️ 2            |            40 |              23 |        99.43 |
 |  4 | Red Zone  Rockets    | ⬆️ 1            |            33 |              30 |        87.2  |
-|  5 | Game of  Jones       | ↔️  0           |            34 |              29 |        83.91 |
-|  6 | Team Ger             | ↔️  0           |            23 |              40 |        54.09 |
-|  7 | Sutton these  Nutz   | ↔️  0           |            20 |              43 |        45.11 |
-|  8 | Karate Kickin Kylers | ↔️  0           |             8 |              55 |        19.7  |
+|  5 | Game of  Jones       |                 |            34 |              29 |        83.91 |
+|  6 | Team Ger             |                 |            23 |              40 |        54.09 |
+|  7 | Sutton these  Nutz   |                 |            20 |              43 |        45.11 |
+|  8 | Karate Kickin Kylers |                 |             8 |              55 |        19.7  |
 
 ### EXPECTED STANDINGS (as of week  9 )
 | Team                 |   Wins |   Losses | Owner            |
@@ -29,7 +29,7 @@ draft: false
 | Red Zone  Rockets    |      6 |        7 | Pat Wagner       |
 | Sutton these  Nutz   |      4 |        9 | Lucas Neidich    |
 | Team Ger             |      4 |        9 | Christian Geer   |
-| Karate Kickin Kylers |      1 |       12 | Cade Lafferty    |
+| Karate Kickin Kylers |      1 |       12 | Cade Lafferty    | 
 
 *These standings do not account for tiebreakers
 
