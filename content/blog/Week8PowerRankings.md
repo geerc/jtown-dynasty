@@ -1,6 +1,6 @@
 ---
 title: Week 8 Report
-date: 2020-11-16
+date: 2020-11-3
 draft: false
 ---
 <!-- excerpt -->

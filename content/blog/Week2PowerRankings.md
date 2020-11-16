@@ -1,6 +1,6 @@
 ---
 title: Week 2 Report
-date: 2020-11-16
+date: 2020-9-22
 draft: false
 ---
 <!-- excerpt -->

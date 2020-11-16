@@ -1,6 +1,6 @@
 ---
 title: Week 6 Report
-date: 2020-11-16
+date: 2020-10-20
 draft: false
 ---
 <!-- excerpt -->

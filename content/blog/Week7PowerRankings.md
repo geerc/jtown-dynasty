@@ -1,6 +1,6 @@
 ---
 title: Week 7 Report
-date: 2020-11-16
+date: 2020-10-27
 draft: false
 ---
 <!-- excerpt -->

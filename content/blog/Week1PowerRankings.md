@@ -1,6 +1,6 @@
 ---
 title: Week 1 Report
-date: 2020-11-16
+date: 2020-9-15
 draft: false
 ---
 <!-- excerpt -->

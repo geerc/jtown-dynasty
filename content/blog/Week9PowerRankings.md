@@ -1,6 +1,6 @@
 ---
 title: Week 9 Report
-date: 2020-11-16
+date: 2020-11-10
 image: /images/week9.jpg
 draft: false
 ---

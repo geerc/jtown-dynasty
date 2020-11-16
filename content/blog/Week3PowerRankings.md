@@ -1,6 +1,6 @@
 ---
 title: Week 3 Report
-date: 2020-11-16
+date: 2020-9-29
 draft: false
 ---
 <!-- excerpt -->
