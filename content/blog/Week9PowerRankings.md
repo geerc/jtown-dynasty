@@ -1,7 +1,7 @@
 ---
 title: Week 9
 date: 2020-10-14T16:34:00.000Z
-image: /images/week.jpg
+image: /images/week9.jpg
 draft: false
 ---
 
