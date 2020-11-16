@@ -1,23 +1,23 @@
 ---
-title: "Power Rankings Week 9"
+title: Week 9 Power Rankings
 date: 2020-10-14T16:34:00.000Z
-image: /images/week_9.jpg
-draft: false
+image: /images/week9.jpg
+draft: true
 ---
 
 # WEEK  9  EXPECTED STANDINGS
 
 Week 9
-| Team                 |   Wins |   Losses |   Ties | Owner            |
-|----------------------|--------|----------|--------|------------------|
-| OC Gang              |     11 |        2 |      0 | Travis Geer      |
-| Final Deztination    |      9 |        4 |      0 | trevor brockwell |
-| Game of  Jones       |      9 |        4 |      0 | william shields  |
-| Victorious Vikings   |      8 |        5 |      0 | Jack Herr        |
-| Red Zone  Rockets    |      6 |        7 |      0 | Pat Wagner       |
-| Sutton these  Nutz   |      4 |        9 |      0 | Lucas Neidich    |
-| Team Ger             |      4 |        9 |      0 | Christian Geer   |
-| Karate Kickin Kylers |      1 |       12 |      0 | Cade Lafferty    |
+| Team                 |   Wins |   Losses | Owner            |
+|----------------------|--------|----------|------------------|
+| OC Gang              |     11 |        2 | Travis Geer      |
+| Final Deztination    |      9 |        4 | trevor brockwell |
+| Game of  Jones       |      9 |        4 | william shields  |
+| Victorious Vikings   |      8 |        5 | Jack Herr        |
+| Red Zone  Rockets    |      6 |        7 | Pat Wagner       |
+| Sutton these  Nutz   |      4 |        9 | Lucas Neidich    |
+| Team Ger             |      4 |        9 | Christian Geer   |
+| Karate Kickin Kylers |      1 |       12 | Cade Lafferty    |
 
 *These standings do not account for tiebreakers
 <!-- excerpt -->
