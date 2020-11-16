@@ -1,13 +1,14 @@
 ---
-title: Week 9 Power Rankings
+title: Week 9
 date: 2020-10-14T16:34:00.000Z
-image: /images/week9.jpg
+image: /images/week.jpg
 draft: false
 ---
 
 # WEEK  9  EXPECTED STANDINGS
 
 Week 9
+
 | Team                 |   Wins |   Losses | Owner            |
 |----------------------|--------|----------|------------------|
 | OC Gang              |     11 |        2 | Travis Geer      |
@@ -23,6 +24,7 @@ Week 9
 <!-- excerpt -->
 
  WEEK  9  POWER RANKINGS
+
 |    | team                 |   allPlayWins |   allPlayLosses |   PowerScore |
 |----|----------------------|---------------|-----------------|--------------|
 |  1 | OC Gang              |            51 |              12 |       120.46 |
@@ -37,6 +39,7 @@ Week 9
  WEEK  9  LUCK INDEX
 
 Through Week 9
+
 | Team                 |   Luck Index | Owner            |
 |----------------------|--------------|------------------|
 | Game of  Jones       |         6.04 | william shields  |
