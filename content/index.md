@@ -2,6 +2,6 @@
 title: Home
 ---
 
-# The Butler
+# Jtown Dynasty
 
-> A ready to use static blog, powered by [Cecil](https://cecil.app).
+> THE fantasy football league of Jenkintown, powered by [Cecil](https://cecil.app).
