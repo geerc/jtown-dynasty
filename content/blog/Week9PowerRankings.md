@@ -10,11 +10,11 @@ draft: false
 
 |    | team                 | Weekly Change   |   allPlayWins |   allPlayLosses |   PowerScore |
 |----|----------------------|-----------------|---------------|-----------------|--------------|
-|  1 | OC Gang              | ⬆️ 1            |            51 |              12 |       120.46 |
+|  1 | OC Gang              |                 |            51 |              12 |       120.46 |
 |  2 | Final Deztination    |                 |            43 |              20 |       100.56 |
-|  3 | Victorious Vikings   | ⬇️ 2            |            40 |              23 |        99.43 |
-|  4 | Red Zone  Rockets    | ⬆️ 1            |            33 |              30 |        87.2  |
-|  5 | Game of  Jones       |                 |            34 |              29 |        83.91 |
+|  3 | Victorious Vikings   | ⬆️ 1            |            40 |              23 |        99.43 |
+|  4 | Game of  Jones       | ⬇️ 1            |            34 |              29 |        83.91 |
+|  5 | Red Zone  Rockets    |                 |            33 |              30 |        87.2  |
 |  6 | Team Ger             |                 |            23 |              40 |        54.09 |
 |  7 | Sutton these  Nutz   |                 |            20 |              43 |        45.11 |
 |  8 | Karate Kickin Kylers |                 |             8 |              55 |        19.7  |
