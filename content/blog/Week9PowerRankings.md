@@ -1,5 +1,5 @@
 ---
-title:
+title: Week 9 Report
 date: 2020-10-14T16:34:00.000Z
 image: /images/week9.jpg
 draft: false
