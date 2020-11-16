@@ -1,6 +1,8 @@
 
  # WEEK  9  POWER RANKINGS
 
+ <!-- excerpt -->
+
  Week  9
 | Team                 |   Power Index | Owner            |
 |----------------------|---------------|------------------|
@@ -39,7 +41,7 @@ Week 9
 | Red Zone  Rockets    |      6 |        7 |      0 | Pat Wagner       |
 | Sutton these  Nutz   |      4 |        9 |      0 | Lucas Neidich    |
 | Team Ger             |      4 |        9 |      0 | Christian Geer   |
-| Karate Kickin Kylers |      1 |       12 |      0 | Cade Lafferty    | 
+| Karate Kickin Kylers |      1 |       12 |      0 | Cade Lafferty    |
 
 *These standings do not account for tiebreakers
 
