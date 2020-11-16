@@ -2,7 +2,7 @@
 title: Week 9 Power Rankings
 date: 2020-10-14T16:34:00.000Z
 image: /images/week9.jpg
-draft: true
+draft: false
 ---
 
 # WEEK  9  EXPECTED STANDINGS
