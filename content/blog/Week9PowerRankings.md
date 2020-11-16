@@ -1,13 +1,13 @@
 ---
-title: Week 9
-date: 2020-11-16T16:34:00.000Z
-image: /images/week9.jpg
+title: 
+date: 2020-10-14T16:34:00.000Z
+image: /images/week.jpg
 draft: false
 ---
 
-# WEEK  9  EXPECTED STANDINGS
+### WEEK  9  EXPECTED STANDINGS
 
-Week 9
+Week 9 
 
 | Team                 |   Wins |   Losses | Owner            |
 |----------------------|--------|----------|------------------|
@@ -18,12 +18,12 @@ Week 9
 | Red Zone  Rockets    |      6 |        7 | Pat Wagner       |
 | Sutton these  Nutz   |      4 |        9 | Lucas Neidich    |
 | Team Ger             |      4 |        9 | Christian Geer   |
-| Karate Kickin Kylers |      1 |       12 | Cade Lafferty    |
+| Karate Kickin Kylers |      1 |       12 | Cade Lafferty    | 
 
 *These standings do not account for tiebreakers
 <!-- excerpt -->
 
- WEEK  9  POWER RANKINGS
+### WEEK  9  POWER RANKINGS
 
 |    | team                 |   allPlayWins |   allPlayLosses |   PowerScore |
 |----|----------------------|---------------|-----------------|--------------|
@@ -36,7 +36,7 @@ Week 9
 |  7 | Sutton these  Nutz   |            20 |              43 |        45.11 |
 |  8 | Karate Kickin Kylers |             8 |              55 |        19.7  |
 
- WEEK  9  LUCK INDEX
+### WEEK  9  LUCK INDEX
 
 Through Week 9
 
