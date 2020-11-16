@@ -6,11 +6,13 @@ draft: false
 ---
 <!-- excerpt -->
 
+⬇️ :arrow_down:
+
 ### POWER RANKINGS
 
 |    | team                 | Weekly Change                   |   allPlayWins |   allPlayLosses |   PowerScore |
 |----|----------------------|---------------------------------|---------------|-----------------|--------------|
-|  1 | OC Gang              | :chart_with_upwards_trend: 1    |            51 |              12 |       120.46 |
+|  1 | OC Gang              | :arrow_down: 1    |            51 |              12 |       120.46 |
 |  2 | Final Deztination    | 0                               |            43 |              20 |       100.56 |
 |  3 | Victorious Vikings   | :chart_with_downwards_trend: -2 |            40 |              23 |        99.43 |
 |  4 | Red Zone  Rockets    | :chart_with_upwards_trend: 1    |            33 |              30 |        87.2  |
