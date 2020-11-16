@@ -1,10 +1,10 @@
-title: The Butler
+title: Jtown Dynasty
 baseline: Your blogging assistant
-description: A ready to use static blog, powered by Cecil.
+description: THE fantasy football league of Jenkintown, powered by Cecil.
 baseurl: /
 canonicalurl: true
 keywords: [Cecil, Static Site Generator, SSG]
-author: Arnaud Ligny
+author: Christian Geer
 date:
   format: j F Y
   timezone: Europe/Paris
