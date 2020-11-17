@@ -7,28 +7,28 @@ draft: false
 
 ### POWER RANKINGS
 
-|    | team                 |   allPlayWins |   allPlayLosses |   PowerScore |
-|----|----------------------|---------------|-----------------|--------------|
-|  1 | OC Gang              |            41 |               8 |        89.31 |
-|  2 | Victorious Vikings   |            30 |              19 |        67.81 |
-|  3 | Final Deztination    |            32 |              17 |        66.1  |
-|  4 | Game of  Jones       |            28 |              21 |        65.31 |
-|  5 | Red Zone  Rockets    |            23 |              26 |        55.7  |
-|  6 | Sutton these  Nutz   |            17 |              32 |        35.63 |
-|  7 | Team Ger             |            17 |              32 |        35.14 |
-|  8 | Karate Kickin Kylers |             8 |              41 |        19.7  |
+|    | team                 | Weekly Change   |   allPlayWins |   allPlayLosses |   PowerScore |
+|----|----------------------|-----------------|---------------|-----------------|--------------|
+|  1 | OC Gang              |                 |            41 |               8 |        89.31 |
+|  2 | Victorious Vikings   | ⬆️ 1            |            30 |              19 |        67.81 |
+|  3 | Final Deztination    | ⬇️ 1            |            32 |              17 |        66.1  |
+|  4 | Game of  Jones       |                 |            28 |              21 |        65.31 |
+|  5 | Red Zone  Rockets    |                 |            23 |              26 |        55.7  |
+|  6 | Sutton these  Nutz   |                 |            17 |              32 |        35.63 |
+|  7 | Team Ger             |                 |            17 |              32 |        35.14 |
+|  8 | Karate Kickin Kylers |                 |             8 |              41 |        19.7  |
 
 ### EXPECTED STANDINGS (as of week  7 )
 | Team                 |   Wins |   Losses | Owner            |
 |----------------------|--------|----------|------------------|
-| OC Gang              |     13 |        2 | Travis Geer      |
-| Game of  Jones       |     11 |        4 | william shields  |
-| Red Zone  Rockets    |      9 |        6 | Pat Wagner       |
-| Victorious Vikings   |      9 |        6 | Jack Herr        |
-| Final Deztination    |      8 |        7 | trevor brockwell |
-| Sutton these  Nutz   |      5 |       10 | Lucas Neidich    |
-| Team Ger             |      4 |       11 | Christian Geer   |
-| Karate Kickin Kylers |      1 |       14 | Cade Lafferty    |
+| OC Gang              |     14 |        2 | Travis Geer      |
+| Game of  Jones       |     12 |        4 | william shields  |
+| Red Zone  Rockets    |     10 |        6 | Pat Wagner       |
+| Victorious Vikings   |      9 |        7 | Jack Herr        |
+| Final Deztination    |      8 |        8 | trevor brockwell |
+| Sutton these  Nutz   |      5 |       11 | Lucas Neidich    |
+| Team Ger             |      5 |       11 | Christian Geer   |
+| Karate Kickin Kylers |      1 |       15 | Cade Lafferty    |
 
 *These standings do not account for tiebreakers
 
