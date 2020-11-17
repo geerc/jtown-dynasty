@@ -15,6 +15,6 @@ theme:
 hyde:
   sidebar:
     sticky: true # Content to the bottom of the sidebar
-  theme: '' # red, orange, yellow, green, cyan, blue, magenta, brown or cecil
+  theme: 'red' # red, orange, yellow, green, cyan, blue, magenta, brown or cecil
   reverse: false # Reverse layout
 googleanalytics: "G-C4NCZ7X3VK"
