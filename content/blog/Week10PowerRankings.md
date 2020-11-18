@@ -1,5 +1,5 @@
 ---
-title: Week 10 Report
+title: Week (WEEK) Report
 date: 2020-11-17
 image: /images/week10.jpg
 draft: false
@@ -9,7 +9,7 @@ draft: false
 ### POWER RANKINGS
 
 |    | team                 | Weekly Change   |  allPlayWins  |  allPlayLosses  |  PowerScore  |  AllPlayWin%  |
-|:--:|:---------------------|:----------------|:-------------:|:---------------:|:------------:|:-------------:|
+|:--:|:---------------------|:---------------:|:-------------:|:---------------:|:------------:|:-------------:|
 | 1  | OC Gang              |                 |      58       |       12        |    143.58    |     0.829     |
 | 2  | Victorious Vikings   | ⬆️ 1            |      42       |       28        |    106.03    |      0.6      |
 | 3  | Final Deztination    | ⬇️ 1            |      44       |       26        |    103.87    |     0.629     |
@@ -32,13 +32,13 @@ draft: false
 | 8  | Karate Kickin Kylers |       1.6       |      11.4       |
 
 ### LUCK INDEX
-| Team                 |   Luck Index | Owner            |
-|----------------------|--------------|------------------|
-| Game of  Jones       |         7.75 | william shields  |
-| Red Zone  Rockets    |         6.08 | Pat Wagner       |
-| Sutton these  Nutz   |        -0.42 | Lucas Neidich    |
-| Karate Kickin Kylers |        -0.5  | Cade Lafferty    |
-| Team Ger             |        -1    | Christian Geer   |
-| OC Gang              |        -1.62 | Travis Geer      |
-| Final Deztination    |        -1.67 | trevor brockwell |
-| Victorious Vikings   |        -7.87 | Jack Herr        |
+| Team                 |  Luck Index  | Owner            |
+|:---------------------|:------------:|:-----------------|
+| Game of  Jones       |     7.75     | william shields  |
+| Red Zone  Rockets    |     6.08     | Pat Wagner       |
+| Sutton these  Nutz   |    -0.42     | Lucas Neidich    |
+| Karate Kickin Kylers |     -0.5     | Cade Lafferty    |
+| Team Ger             |      -1      | Christian Geer   |
+| OC Gang              |    -1.62     | Travis Geer      |
+| Final Deztination    |    -1.67     | trevor brockwell |
+| Victorious Vikings   |    -7.87     | Jack Herr        |
