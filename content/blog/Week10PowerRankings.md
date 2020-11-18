@@ -1,37 +1,35 @@
 ---
-title: Week 10 Report
-date: 2020-11-17
-image: /images/week10.jpg
+title: Week (WEEK) Report
+date: 2020-MONTH-DAY
+image: /images/week(ADD WEEK NUMBER HERE).jpg
 draft: false
 ---
 <!-- excerpt -->
 
 ### POWER RANKINGS
 
-|    | team                 | Weekly Change   |   allPlayWins |   allPlayLosses |   PowerScore |
-|----|----------------------|-----------------|---------------|-----------------|--------------|
-|  1 | OC Gang              |                 |            58 |              12 |       143.58 |
-|  2 | Victorious Vikings   | ⬆️ 1            |            42 |              28 |       106.03 |
-|  3 | Final Deztination    | ⬇️ 1            |            44 |              26 |       103.87 |
-|  4 | Game of  Jones       | ⬆️ 1            |            39 |              31 |       100.42 |
-|  5 | Red Zone  Rockets    | ⬇️ 1            |            37 |              33 |       100.41 |
-|  6 | Team Ger             |                 |            29 |              41 |        73.91 |
-|  7 | Sutton these  Nutz   |                 |            23 |              47 |        55.02 |
-|  8 | Karate Kickin Kylers |                 |             8 |              62 |        19.7  |
+|    | team                 | Weekly Change   |  allPlayWins  |  allPlayLosses  |  PowerScore  |  AllPlayWin%  |
+|:--:|:---------------------|:----------------|:-------------:|:---------------:|:------------:|:-------------:|
+| 1  | OC Gang              |                 |      58       |       12        |    143.58    |     0.829     |
+| 2  | Victorious Vikings   | ⬆️ 1            |      42       |       28        |    106.03    |      0.6      |
+| 3  | Final Deztination    | ⬇️ 1            |      44       |       26        |    103.87    |     0.629     |
+| 4  | Game of  Jones       | ⬆️ 1            |      39       |       31        |    100.42    |     0.557     |
+| 5  | Red Zone  Rockets    | ⬇️ 1            |      37       |       33        |    100.41    |     0.529     |
+| 6  | Team Ger             |                 |      29       |       41        |    73.91     |     0.414     |
+| 7  | Sutton these  Nutz   |                 |      23       |       47        |    55.02     |     0.329     |
+| 8  | Karate Kickin Kylers |                 |       8       |       62        |     19.7     |     0.114     |
 
 ### EXPECTED STANDINGS (as of week  10 )
-| Team                 |   Wins |   Losses | Owner            |
-|----------------------|--------|----------|------------------|
-| OC Gang              |     11 |        2 | Travis Geer      |
-| Game of  Jones       |      9 |        4 | william shields  |
-| Victorious Vikings   |      8 |        5 | Jack Herr        |
-| Red Zone  Rockets    |      7 |        6 | Pat Wagner       |
-| Final Deztination    |      7 |        6 | trevor brockwell |
-| Team Ger             |      5 |        8 | Christian Geer   |
-| Sutton these  Nutz   |      4 |        9 | Lucas Neidich    |
-| Karate Kickin Kylers |      1 |       12 | Cade Lafferty    |
-
-*These standings do not account for tiebreakers
+|    | Team                 |  TotalProjWins  |  TotalProjLoss  |
+|:--:|:---------------------|:---------------:|:---------------:|
+| 1  | OC Gang              |      9.98       |      3.02       |
+| 2  | Game of  Jones       |       8.7       |       4.3       |
+| 3  | Red Zone  Rockets    |      7.75       |      5.25       |
+| 4  | Final Deztination    |      7.68       |      5.32       |
+| 5  | Victorious Vikings   |      6.77       |      6.23       |
+| 6  | Team Ger             |      5.14       |      7.86       |
+| 7  | Sutton these  Nutz   |      4.38       |      8.62       |
+| 8  | Karate Kickin Kylers |       1.6       |      11.4       |
 
 ### LUCK INDEX
 | Team                 |   Luck Index | Owner            |
