@@ -1,7 +1,7 @@
-{# {% extends '_default/page.html.twig' %} #}
+{% extends '_default/page.html.twig' %}
 
 {% block head %}
-{{ child() }}
+{{ parent() }}
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-C4NCZ7X3VK"></script>
     <script>
@@ -32,18 +32,16 @@
 
 {% endblock head %}
 
-<div id="footer" >
-  {% block footer %}
-  {{ parent() }}
-  <div id="hyvor-talk-view"></div>
-  <script type="text/javascript">
-      var HYVOR_TALK_WEBSITE = 2406; // DO NOT CHANGE THIS
-      var HYVOR_TALK_CONFIG = {
-          url: false
-          id: false
-      };
-  </script>
-  <script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>
+{% block footer %}
+{{ parent() }}
+<div id="hyvor-talk-view"></div>
+<script type="text/javascript">
+    var HYVOR_TALK_WEBSITE = 2406; // DO NOT CHANGE THIS
+    var HYVOR_TALK_CONFIG = {
+        url: false
+        id: false
+    };
+</script>
+<script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>
 
-  {% endblock footer %}
-</div>
+{% endblock footer %}
