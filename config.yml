@@ -17,4 +17,12 @@ hyde:
     sticky: true # Content to the bottom of the sidebar
   theme: 'cecil' # red, orange, yellow, green, cyan, blue, magenta, brown or cecil
   reverse: false # Reverse layout
+
 googleanalytics: "G-C4NCZ7X3VK"
+
+menus:
+  footer:
+    - id: author
+      name: "The author"
+      url: https://arnaudligny.fr
+      weight: 99
