@@ -11,7 +11,7 @@ draft: false
 |    | team                 | Weekly Change   | AllPlayWin%   |  PowerScore  |
 |:--:|:---------------------|:---------------:|:-------------:|:------------:|
 | 1  | OC Gang              |                 | 82.9%         |    143.58    |
-| 2  | Victorious Vikings   | ⬆️ 1            | 60.0%         |    106.03    |
+| 2  | Victorious Vikings   | <span style="color: red;">⬆️ 1</span>| 60.0%         |    106.03    |
 | 3  | Final Deztination    | ⬇️ 1            | 62.9%         |    103.87    |
 | 4  | Game of  Jones       | ⬆️ 1            | 55.7%         |    100.42    |
 | 5  | Red Zone  Rockets    | ⬇️ 1            | 52.9%         |    100.41    |
