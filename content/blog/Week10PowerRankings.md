@@ -8,16 +8,16 @@ draft: false
 
 ### POWER RANKINGS
 
-|    | team                 | Weekly Change                        | AllPlayWin%   |  PowerScore  |
-|:--:|:---------------------|:-------------------------------------|:--------------|:------------:|
-| 1  | OC Gang              |                                      | 82.9%         |    143.58    |
-| 2  | Victorious Vikings   | <span style="color: green;">1</span> | 60.0%         |    106.03    |
-| 3  | Final Deztination    | <span style="color: red;">1</span>   | 62.9%         |    103.87    |
-| 4  | Game of  Jones       | <span style="color: green;">1</span> | 55.7%         |    100.42    |
-| 5  | Red Zone  Rockets    | <span style="color: red;">1</span>   | 52.9%         |    100.41    |
-| 6  | Team Ger             |                                      | 41.4%         |    73.91     |
-| 7  | Sutton these  Nutz   |                                      | 32.9%         |    55.02     |
-| 8  | Karate Kickin Kylers |                                      | 11.4%         |     19.7     |
+|    | team                 | Weekly Change                                | AllPlayWin%   |  PowerScore  |
+|:--:|:---------------------|:---------------------------------------------|:--------------|:------------:|
+| 1  | OC Gang              |                                              | 82.9%         |    143.58    |
+| 2  | Victorious Vikings   | <span style="color: green;">**⬇️ 1** </span> | 60.0%         |    106.03    |
+| 3  | Final Deztination    | <span style="color: red;">**⬆️ 1** </span>   | 62.9%         |    103.87    |
+| 4  | Game of  Jones       | <span style="color: green;">**⬇️ 1** </span> | 55.7%         |    100.42    |
+| 5  | Red Zone  Rockets    | <span style="color: red;">**⬆️ 1** </span>   | 52.9%         |    100.41    |
+| 6  | Team Ger             |                                              | 41.4%         |    73.91     |
+| 7  | Sutton these  Nutz   |                                              | 32.9%         |    55.02     |
+| 8  | Karate Kickin Kylers |                                              | 11.4%         |     19.7     |
 
 ### EXPECTED STANDINGS (as of week  10 )
 |    | Team                 |  TotalProjWins  |  TotalProjLoss  |
@@ -34,12 +34,12 @@ draft: false
 ### PLAYOFF PROBABILITIES (as of week  10 )
 |    | Team                 | Playoffs   | 1st Seed   | 2nd Seed   | 3rd Seed   | 4th Seed   |
 |:--:|:---------------------|:-----------|:-----------|:-----------|:-----------|:-----------|
-| 1  | OC Gang              | **100.0%** | 82.93%     | 12.73%     | 3.74%      | 0.6%       |
-| 2  | Game of  Jones       | **98.16%** | 14.11%     | 45.81%     | 27.39%     | 10.85%     |
-| 3  | Final Deztination    | **89.63%** | 2.37%      | 27.48%     | 34.6%      | 25.18%     |
-| 4  | Red Zone  Rockets    | **68.95%** | 0.59%      | 8.93%      | 22.58%     | 36.86%     |
-| 5  | Victorious Vikings   | **41.68%** | 0.0%       | 5.05%      | 11.69%     | 24.94%     |
-| 6  | Team Ger             | **1.57%**  | 0.0%       | 0.0%       | 0.0%       | 1.57%      |
+| 1  | OC Gang              | **100.0%** | 83.08%     | 12.65%     | 3.69%      | 0.58%      |
+| 2  | Game of  Jones       | **98.15%** | 13.99%     | 45.78%     | 27.49%     | 10.9%      |
+| 3  | Final Deztination    | **89.62%** | 2.34%      | 27.58%     | 34.55%     | 25.15%     |
+| 4  | Red Zone  Rockets    | **68.83%** | 0.59%      | 8.88%      | 22.53%     | 36.83%     |
+| 5  | Victorious Vikings   | **41.83%** | 0.0%       | 5.12%      | 11.74%     | 24.97%     |
+| 6  | Team Ger             | **1.58%**  | 0.0%       | 0.0%       | 0.0%       | 1.58%      |
 | 7  | Sutton these  Nutz   | **0.0%**   | 0.0%       | 0.0%       | 0.0%       | 0.0%       |
 | 8  | Karate Kickin Kylers | **0.0%**   | 0.0%       | 0.0%       | 0.0%       | 0.0%       |
 
