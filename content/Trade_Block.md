@@ -1,13 +1,10 @@
-<!-- ---
+---
 title: Trade Block
 date: 2020-11-20
 menu:
   main:
     weight: 999
---- -->
-<!DOCTYPE html>
-<html>
-<head>
+---
 
 <style>
 .heatMap {
@@ -24,10 +21,6 @@ text-align: center;
 .heatMap tr:nth-child(3) { background: green; }
 </style>
 
-</head>
-
-<body>
-
 <div class="heatMap">
 
 | Red Zone Rockets | Final Deztination | Game of Jones | Victorious Vikings | OC Gang | Sutton these Nutz | Karate Kickin Kylers | Team Ger|
@@ -39,6 +32,3 @@ text-align: center;
 | | | | | | | | |
 
 </div>
-
-</body>
-</html>
