@@ -1,7 +1,7 @@
 ---
 title: Week 11 Report
 date: 2020-11-24
-image: /images/week11.jpeg
+image: /images/week11.jpg
 draft: false
 ---
 <!-- excerpt -->
