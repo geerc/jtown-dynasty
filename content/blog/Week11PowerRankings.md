@@ -9,7 +9,7 @@ draft: false
 ### POWER RANKINGS
 
 |    | team                 | Weekly Change                                | AllPlayWin%   |  PowerScore  |
-|:--:|:---------------------|:---------------------------------------------|:-------------:|:------------:|
+|:--:|:---------------------|:--------------------------------------------:|:-------------:|:------------:|
 | 1  | OC Gang              |                                              | 77.9%         |    150.4     |
 | 2  | Final Deztination    | **<span style="color: green;">⬆️ 1 </span>** | 63.6%         |    120.9     |
 | 3  | Red Zone  Rockets    | **<span style="color: green;">⬆️ 2 </span>** | 55.8%         |    120.8     |
