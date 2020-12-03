@@ -1,7 +1,7 @@
 ---
-title: Week (WEEK) Report
-date: 2020-MONTH-DAY
-image: /images/week(ADD WEEK NUMBER HERE).jpg
+title: Week 12 Report
+date: 2020-12-3
+image: /images/week12.jpg
 draft: false
 ---
 <!-- excerpt -->
