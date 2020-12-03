@@ -1,7 +1,7 @@
 ---
-title: Week 12 Report
-date: 2020-12-3
-image: /images/week12.jpg
+title: Week (WEEK) Report
+date: 2020-MONTH-DAY
+image: /images/week(ADD WEEK NUMBER HERE).jpg
 draft: false
 ---
 <!-- excerpt -->
@@ -34,14 +34,14 @@ draft: false
 ### PLAYOFF PROBABILITIES (as of week  12 )
 |    | Team               | Playoffs   | 1st Seed   | 2nd Seed   | 3rd Seed   | 4th Seed   |
 |:--:|:-------------------|:----------:|:----------:|:----------:|:----------:|:----------:|
-| 1  | OC Gang            | **100.0%** | 76.34%     | 14.64%     | 7.25%      | 1.77%      |
-| 2  | Red Zone  Rockets  | **97.95%** | 12.92%     | 40.06%     | 26.87%     | 18.09%     |
-| 3  | Game of  Jones     | **94.01%** | 8.98%      | 25.27%     | 33.06%     | 26.7%      |
-| 4  | Final Deztination  | **85.79%** | 1.75%      | 18.84%     | 26.98%     | 38.22%     |
-| 5  | Victorious Vikings | **21.48%** | 0.0%       | 1.18%      | 5.85%      | 14.45%     |
-| 6  | Team Ger           | **0.78%**  | 0.0%       | 0.0%       | 0.0%       | 0.78%      |
-| 7  | Sutton these  Nutz | **0.0%**   | 0.0%       | 0.0%       | 0.0%       | 0.0%       |
-| 8  | Laff Squad         | **0.0%**   | 0.0%       | 0.0%       | 0.0%       | 0.0%       |
+| 1  | OC Gang            | **100.0%** | 100.0%     | 0.0%       | 0.0%       | 0.0%       |
+| 2  | Red Zone  Rockets  | **100.0%** | 0.0%       | 62.55%     | 24.96%     | 12.49%     |
+| 3  | Game of  Jones     | **100.0%** | 0.0%       | 24.97%     | 50.06%     | 24.97%     |
+| 4  | Final Deztination  | **100.0%** | 0.0%       | 12.48%     | 24.98%     | 62.54%     |
+| 5  | Victorious Vikings | **0.0%**   | 0.0%       | 0.0%       | 0.0%       | 0.0%       |
+| 6  | Sutton these  Nutz | **0.0%**   | 0.0%       | 0.0%       | 0.0%       | 0.0%       |
+| 7  | Laff Squad         | **0.0%**   | 0.0%       | 0.0%       | 0.0%       | 0.0%       |
+| 8  | Team Ger           | **0.0%**   | 0.0%       | 0.0%       | 0.0%       | 0.0%       |
 
 ### LUCK INDEX
 | Team               |  Luck Index  | Owner            |
