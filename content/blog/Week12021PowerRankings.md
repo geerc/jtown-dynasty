@@ -9,7 +9,7 @@ draft: false
 ### POWER RANKINGS
 
 |    | team                   | AllPlayWin%   |  PowerScore  |
-|:--:|:-----------------------|:--------------|:------------:|
+|:--:|:-----------------------|:--------------:|:------------:|
 | 1  | Game of  Jones         | 100.0%        |      7       |
 | 2  | Da Coldest In the Game | 85.7%         |      6       |
 | 3  | Sutton these  Nutz     | 71.4%         |      5       |
@@ -19,7 +19,7 @@ draft: false
 | 7  | King's  Landry         | 14.3%         |      1       |
 | 8  | Team Ger               | 0.0%          |      0       |
 
-### EXPECTED STANDINGS (as of week  1 )
+### EXPECTED STANDINGS (as of week  1)
 |    | Team                   |  TotalProjWins  |  TotalProjLoss  |
 |:--:|:-----------------------|:---------------:|:---------------:|
 | 1  | Game of  Jones         |      8.76       |      4.24       |
