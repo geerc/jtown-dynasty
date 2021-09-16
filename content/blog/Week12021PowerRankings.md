@@ -1,6 +1,6 @@
 ---
 title: Week 1 2021 Report
-date: 2020-9-14
+date: 2020-9-16
 image: /images/2021week1.jpg
 draft: false
 ---
@@ -8,18 +8,18 @@ draft: false
 
 ### POWER RANKINGS
 
-|    | team                   | AllPlayWin%   |  PowerScore  |
-|:--:|:-----------------------|:--------------:|:------------:|
-| 1  | Game of  Jones         | 100.0%        |      7       |
-| 2  | Da Coldest In the Game | 85.7%         |      6       |
-| 3  | Sutton these  Nutz     | 71.4%         |      5       |
-| 4  | Red Zone  Rockets      | 57.1%         |      4       |
-| 5  | Final Deztination      | 42.9%         |      3       |
-| 6  | OC Gang                | 28.6%         |      2       |
-| 7  | King's  Landry         | 14.3%         |      1       |
-| 8  | Team Ger               | 0.0%          |      0       |
+|    | Team                   | All Play Win %   |  Value Power Score  |
+|:--:|:-----------------------|:-----------------:|:-------------------:|
+| 1  | Game of  Jones         | 100.0%           |        49.6         |
+| 2  | OC Gang                | 28.6%            |        39.94        |
+| 3  | Red Zone  Rockets      | 57.1%            |        34.69        |
+| 4  | Da Coldest In the Game | 85.7%            |        34.23        |
+| 5  | Final Deztination      | 42.9%            |        31.31        |
+| 6  | Sutton these  Nutz     | 71.4%            |        29.26        |
+| 7  | King's  Landry         | 14.3%            |        20.57        |
+| 8  | Team Ger               | 0.0%             |          0          |
 
-### EXPECTED STANDINGS (as of week  1)
+### EXPECTED STANDINGS (as of week  1 )
 |    | Team                   |  TotalProjWins  |  TotalProjLoss  |
 |:--:|:-----------------------|:---------------:|:---------------:|
 | 1  | Game of  Jones         |      8.76       |      4.24       |
