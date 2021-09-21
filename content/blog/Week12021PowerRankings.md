@@ -1,7 +1,7 @@
 ---
-title: Week 1 2021 Report
-date: 2020-9-17
-image: /images/2021week1.jpg
+title: Week (WEEK) (YEAR) Report
+date: 2020-MONTH-DAY
+image: /images/(YEAR)week(ADD WEEK NUMBER HERE).jpg
 draft: false
 ---
 <!-- excerpt -->
@@ -10,26 +10,26 @@ draft: false
 
 |    | Team                   | All Play Win %   |  Value Power Score  |
 |:--:|:-----------------------|:----------------:|:-------------------:|
-| 1  | Game of  Jones         | 100.0%           |        26.8         |
+| 1  | Game of  Jones         | 100.0%           |        27.2         |
 | 2  | OC Gang                | 28.6%            |        17.14        |
-| 3  | Red Zone  Rockets      | 57.1%            |        11.89        |
+| 3  | Red Zone  Rockets      | 57.1%            |        11.49        |
 | 4  | Da Coldest In the Game | 85.7%            |        11.43        |
-| 5  | Final Deztination      | 42.9%            |        8.51         |
-| 6  | Sutton these  Nutz     | 71.4%            |        6.46         |
-| 7  | King's  Landry         | 14.3%            |        -2.23        |
-| 8  | Team Ger               | 0.0%             |        -22.8        |
+| 5  | Sutton these  Nutz     | 71.4%            |        9.26         |
+| 6  | Final Deztination      | 42.9%            |        7.31         |
+| 7  | King's  Landry         | 14.3%            |        -4.23        |
+| 8  | Team Ger               | 0.0%             |        -27.2        |
 
 ### EXPECTED STANDINGS (as of week  1 )
 |    | Team                   |  TotalProjWins  |  TotalProjLoss  |
 |:--:|:-----------------------|:---------------:|:---------------:|
-| 1  | Game of  Jones         |      8.03       |      4.97       |
-| 2  | OC Gang                |        8        |        5        |
-| 3  | Sutton these  Nutz     |      7.25       |      5.75       |
-| 4  | Da Coldest In the Game |      7.02       |      5.98       |
-| 5  | Final Deztination      |      6.24       |      6.76       |
-| 6  | Red Zone  Rockets      |      6.14       |      6.86       |
-| 7  | King's  Landry         |      5.32       |      7.68       |
-| 8  | Team Ger               |        0        |       13        |
+| 1  | Game of  Jones         |      8.97       |      5.03       |
+| 2  | Da Coldest In the Game |      8.01       |      5.99       |
+| 3  | OC Gang                |      7.94       |      6.06       |
+| 4  | Sutton these  Nutz     |       7.5       |       6.5       |
+| 5  | King's  Landry         |      6.27       |      7.73       |
+| 6  | Final Deztination      |      6.19       |      7.81       |
+| 7  | Red Zone  Rockets      |      6.12       |      7.88       |
+| 8  | Team Ger               |        1        |       13        |
 
 ### LUCK INDEX
 | Team                   |  Luck Index  | Owner            |
