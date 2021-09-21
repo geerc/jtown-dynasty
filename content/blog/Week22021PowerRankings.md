@@ -8,16 +8,16 @@ draft: false
 
 ### POWER RANKINGS
 
-|    | team                   | Weekly Change                                | AllPlayWin%   |  Weighted Avg  |
-|:--:|:-----------------------|:---------------------------------------------|:--------------|:--------------:|
-| 1  | Final Deztination      | **<span style="color: green;">⬆️ 5 </span>** | 57.1%         |     33.75      |
-| 2  | Game of  Jones         | **<span style="color: red;">⬇️ 1 </span>**   | 92.9%         |     28.05      |
-| 3  | Da Coldest In the Game | **<span style="color: green;">⬆️ 1 </span>** | 92.9%         |       20       |
-| 4  | OC Gang                | **<span style="color: red;">⬇️ 2 </span>**   | 28.6%         |      18.1      |
-| 5  | King's  Landry         | **<span style="color: green;">⬆️ 2 </span>** | 35.7%         |     14.55      |
-| 6  | Red Zone  Rockets      | **<span style="color: red;">⬇️ 3 </span>**   | 35.7%         |     -2.49      |
-| 7  | Team Ger               | **<span style="color: green;">⬆️ 1 </span>** | 21.4%         |     -11.31     |
-| 8  | Sutton these  Nutz     | **<span style="color: red;">⬇️ 3 </span>**   | 35.7%         |     -13.64     |
+|    | team                   | Weekly Change                                | AllPlayWin%   |  Value Power Score  |
+|:--:|:-----------------------|:---------------------------------------------|:--------------|:-------------------:|
+| 1  | Final Deztination      | **<span style="color: green;">⬆️ 5 </span>** | 57.1%         |        33.75        |
+| 2  | Game of  Jones         | **<span style="color: red;">⬇️ 1 </span>**   | 92.9%         |        28.05        |
+| 3  | Da Coldest In the Game | **<span style="color: green;">⬆️ 1 </span>** | 92.9%         |         20          |
+| 4  | OC Gang                | **<span style="color: red;">⬇️ 2 </span>**   | 28.6%         |        18.1         |
+| 5  | King's  Landry         | **<span style="color: green;">⬆️ 2 </span>** | 35.7%         |        14.55        |
+| 6  | Red Zone  Rockets      | **<span style="color: red;">⬇️ 3 </span>**   | 35.7%         |        -2.49        |
+| 7  | Team Ger               | **<span style="color: green;">⬆️ 1 </span>** | 21.4%         |       -11.31        |
+| 8  | Sutton these  Nutz     | **<span style="color: red;">⬇️ 3 </span>**   | 35.7%         |       -13.64        |
 
 ### EXPECTED STANDINGS (as of week  2 )
 |    | Team                   |  TotalProjWins  |  TotalProjLoss  |
