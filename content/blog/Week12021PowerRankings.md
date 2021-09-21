@@ -22,14 +22,14 @@ draft: false
 ### EXPECTED STANDINGS (as of week  1 )
 |    | Team                   |  TotalProjWins  |  TotalProjLoss  |
 |:--:|:-----------------------|:---------------:|:---------------:|
-| 1  | Game of  Jones         |      8.97       |      5.03       |
-| 2  | Da Coldest In the Game |      8.01       |      5.99       |
-| 3  | OC Gang                |      7.94       |      6.06       |
-| 4  | Sutton these  Nutz     |       7.5       |       6.5       |
-| 5  | King's  Landry         |      6.27       |      7.73       |
-| 6  | Final Deztination      |      6.19       |      7.81       |
-| 7  | Red Zone  Rockets      |      6.12       |      7.88       |
-| 8  | Team Ger               |        1        |       13        |
+| 1  | Game of  Jones         |      8.03       |      4.97       |
+| 2  | OC Gang                |       8         |       5         |
+| 3  | Sutton these Nutz      |      7.25       |      5.75       |
+| 4  | Da Coldest In The Gam  |      7.02       |      5.98       |
+| 5  | Final Deztination      |      6.24       |      6.76       |
+| 6  | Red Zone Rockets       |      6.14       |      6.86       |
+| 7  | King's Landry          |      5.32       |      7.68       |
+| 8  | Team Ger               |        0        |       13        |
 
 ### LUCK INDEX
 | Team                   |  Luck Index  | Owner            |
