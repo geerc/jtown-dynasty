@@ -9,7 +9,7 @@ draft: false
 ### POWER RANKINGS
 
 |    |                        | Team                                         | All Play Win %   |  Value Power Score  |
-|:--:|:-----------------------|:--------------------------------------------:|:-----------------|:-------------------:|
+|:--:|:-----------------------|:--------------------------------------------:|:----------------:|:-------------------:|
 | 1  | Final Deztination      | **<span style="color: green;">⬆️ 5 </span>** | 57.1%            |        33.75        |
 | 2  | Game of  Jones         | **<span style="color: red;">⬇️ 1 </span>**   | 92.9%            |        28.05        |
 | 3  | Da Coldest In the Game | **<span style="color: green;">⬆️ 1 </span>** | 92.9%            |         20          |
