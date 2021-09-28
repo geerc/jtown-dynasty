@@ -6,7 +6,7 @@ draft: false
 ---
 <!-- excerpt -->
 
-# POWER RANKINGS
+## POWER RANKINGS
 
 |    | team                   | Weekly Change                                | AllPlayWin%   |  Value Power Score  |
 |:--:|:-----------------------|:--------------------------------------------:|:-------------:|:-------------------:|
@@ -19,7 +19,7 @@ draft: false
 | 7  | Sutton these  Nutz     |                                              | 33.3%         |       -12.24        |
 | 8  | Red Zone  Rockets      |                                              | 23.8%         |       -28.75        |
 
-##Highlights:
+###Highlights:
 
 **Final Deztination**: Final Deztination only falls 1 spot this week despite the crucial CMC injury. Without CMC in the starting lineup FD's team values drops from 2nd in the league to 5th, and they drop all the way to 6th in the Power Rankings. This team could go into free fall without their star in the next couple weeks.
 
@@ -29,7 +29,7 @@ draft: false
 
 **OC Gang**: If anyone is going to threaten the top two right now it looks like OC Gang is the team that could it. The championship hangover has hit this team hard as they come out of week 3 with an All Play Win % of just 28.6%. However, they still hold the 3rd highest team value so don't be too surprised if this team finds a way to turn it around.
 
-# EXPECTED STANDINGS (as of week  3 )
+## EXPECTED STANDINGS (as of week  3 )
 |    | Team                   |  TotalProjWins  |  TotalProjLoss  |
 |:--:|:-----------------------|:---------------:|:---------------:|
 | 1  | Da Coldest In the Game |      10.34      |      2.66       |
@@ -41,7 +41,7 @@ draft: false
 | 7  | Sutton these  Nutz     |      3.99       |      9.01       |
 | 8  | Red Zone  Rockets      |        0        |       13        |
 
-# LUCK INDEX
+## LUCK INDEX
 | Team                   |  Luck Index  | Owner            |
 |:-----------------------|:------------:|:-----------------|
 | OC Gang                |      5       | Travis Geer      |
