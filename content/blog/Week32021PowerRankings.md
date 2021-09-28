@@ -1,7 +1,7 @@
 ---
 title: Week 3 2021 Report
 date: 2020-9-28
-image: /images/2021week3.jpg
+image: /images/2021week3.jpeg
 draft: false
 ---
 <!-- excerpt -->
