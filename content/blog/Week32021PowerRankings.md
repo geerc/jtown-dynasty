@@ -21,7 +21,7 @@ draft: false
 
 ###Highlights:
 
-**Final Deztination**: Final Deztination only falls 1 spot this week despite the crucial CMC injury. Without CMC in the starting lineup FD's team values drops from 2nd in the league to 5th, and they drop all the way to 6th in the Power Rankings. This team could go into free fall without their star in the next couple weeks.
+**Final Deztination**: Final Deztination only falls 1 spot this week despite the crucial CMC injury. Without CMC in the starting lineup FD's team values drops from 2nd in the league to 5th, and they drop all the way to 6th in the Power Rankings. This team could go into free fall without their star in the next few weeks.
 
 **Da Coldest In the Game**: Holding the \#1 spot in both performance and team value, DCITG is clearly on top of this league. After a rocky expansion year with some highs (Week 5), but mostly lows, DCITG has come out firing on all cylinders in 2021. Simply put, they looks scary.
 
