@@ -19,7 +19,7 @@ draft: false
 | 7  | Sutton these  Nutz     |                                              | 33.3%         |       -12.24        |
 | 8  | Red Zone  Rockets      |                                              | 23.8%         |       -28.75        |
 
-##Highlights:
+#Highlights:
 
 **Final Deztination**: Final Deztination only falls 1 spot this week despite the crucial CMC injury. Without CMC in the starting lineup FD's team values drops from 2nd in the league to 5th, and they drop all the way to 6th in the Power Rankings. This team could go into free fall without their star in the next couple weeks.
 
