@@ -9,7 +9,7 @@ draft: false
 # POWER RANKINGS
 
 |    | team                   | Weekly Change                                | AllPlayWin%   |  Value Power Score  |
-|:--:|:-----------------------|:---------------------------------------------|:--------------|:-------------------:|
+|:--:|:-----------------------|:--------------------------------------------:|:-------------:|:-------------------:|
 | 1  | Da Coldest In the Game |                                              | 89.3%         |         58          |
 | 2  | Game of  Jones         |                                              | 78.6%         |        50.22        |
 | 3  | King's  Landry         |                                              | 50.0%         |        26.83        |
@@ -21,7 +21,7 @@ draft: false
 
 ##Highlights:
 
-Not much to see this week. **Da Coldest In the Game** and **Game of Jones** continue to dominate and maintain their spots at the top. Thanks to a bump in team value, **King's Landry** maintains their spot despite a poor Week 4 performance. **OC Gang** continues to threaten the top despite low weekly scores. However, OCG's team value has started to fall so this team has to get it going or soon it'll be too late. Finally, a huge week from Mahomes and Hill wasn't enough to move the **Red Zone Rockets** up more than just 1 spot, they'll have to put it together more often to climb the rankings. 
+Not much to see this week. **Da Coldest In the Game** and **Game of Jones** continue to dominate and maintain their spots at the top. Thanks to a bump in team value, **King's Landry** maintains their spot despite a poor Week 4 performance. **OC Gang** continues to threaten the top despite low weekly scores. However, OCG's team value has started to fall so this team has to get it going or soon it'll be too late. Finally, a huge week from Mahomes and Hill wasn't enough to move the **Red Zone Rockets** up more than just 1 spot, they'll have to put it together more often to climb the rankings.
 
 
 # EXPECTED STANDINGS (as of week  4 )
