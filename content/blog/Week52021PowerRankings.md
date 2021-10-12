@@ -1,6 +1,6 @@
 ---
 title: Week 5 2021 Report
-date: 2020-MONTH-DAY
+date: 2020-10-12
 image: /images/2021week5.jpeg
 draft: false
 ---
