@@ -21,6 +21,15 @@ draft: false
 
 ##Highlights:
 
+**Da Coldest In the Game**: After dominating the first 4 weeks of the season Da Coldest came back down to earth this week. It was still a decent showing for the team and nothing to worry about at this point.
+
+**Team Ger**: This was a statement win from a team that has been nothing more than average for most of this year. This team has established itself as a legitimate playoff threat, we'll see if they can maintain this new momentum.
+
+**OC Gang**: This team has been good on paper the whole year, but we finally saw them perform up to that potential. The slow start has put them in a bit of a hole, but come playoff time anything can happen.
+
+**Final Deztination**: Despite being without Christian McCaffrey this team still put up over 200 points and the highest score in the league. They only move up on spot, but add McCaffrey back into the mix and they could be scary.
+
+**King's Landry**: This team is in trouble. After two poor performances in a row and the breakout performances by Ger and OC Gang, King's Landry is now on the outside looking in. This team needs to turn it around, and fast.
 
 # EXPECTED STANDINGS (as of week  5 )
 |    | Team                   |  TotalProjWins  |  TotalProjLoss  |
