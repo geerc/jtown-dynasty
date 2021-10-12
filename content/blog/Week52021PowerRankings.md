@@ -1,6 +1,6 @@
 ---
 title: Week 5 2021 Report
-date: 2020-10-12
+date: 2020-MONTH-DAY
 image: /images/2021week5.jpeg
 draft: false
 ---
@@ -10,51 +10,41 @@ draft: false
 
 |    | team                   | Weekly Change                                | AllPlayWin%   |  Value Power Score  |
 |:--:|:-----------------------|:--------------------------------------------:|:-------------:|:-------------------:|
-| 1  | Da Coldest In the Game |                                              | 80.0%         |        56.4         |
+| 1  | Da Coldest In the Game |                                              | 80.0%         |         56          |
 | 2  | Game of  Jones         |                                              | 74.3%         |        52.64        |
 | 3  | OC Gang                | **<span style="color: green;">⬆️ 1 </span>** | 48.6%         |        41.18        |
-| 4  | Team Ger               | **<span style="color: green;">⬆️ 1 </span>** | 45.7%         |        36.95        |
-| 5  | Final Deztination      | **<span style="color: green;">⬆️ 1 </span>** | 45.7%         |        23.07        |
-| 6  | King's  Landry         | **<span style="color: red;">⬇️ 3 </span>**   | 40.0%         |        15.83        |
-| 7  | Sutton these  Nutz     | **<span style="color: green;">⬆️ 1 </span>** | 28.6%         |        -2.84        |
+| 4  | Team Ger               | **<span style="color: green;">⬆️ 1 </span>** | 45.7%         |        36.55        |
+| 5  | Final Deztination      | **<span style="color: green;">⬆️ 1 </span>** | 45.7%         |        22.67        |
+| 6  | King's  Landry         | **<span style="color: red;">⬇️ 3 </span>**   | 40.0%         |        15.43        |
+| 7  | Sutton these  Nutz     | **<span style="color: green;">⬆️ 1 </span>** | 28.6%         |        -3.64        |
 | 8  | Red Zone  Rockets      | **<span style="color: red;">⬇️ 1 </span>**   | 37.1%         |       -11.48        |
 
 ##Highlights:
-
-**Da Coldest In the Game**: After dominating the first 4 weeks of the season Da Coldest came back down to earth this week. It was still a decent showing for the team and nothing to worry about at this point.
-
-**Team Ger**: This was a statement win from a team that has been nothing more than average for most of this year. This team has established itself as a legitimate playoff threat, we'll see if they can maintain this new momentum.
-
-**OC Gang**: This team has been good on paper the whole year, but we finally saw them perform up to that potential. The slow start has put them in a bit of a hole, but come playoff time anything can happen.
-
-**Final Deztination**: Despite being without Christian McCaffrey this team still put up over 200 points and the highest score in the league. They only move up on spot, but add McCaffrey back into the mix and they could be scary.
-
-**King's Landry**: This team is in trouble. After two poor performances in a row and the breakout performances by Ger and OC Gang, King's Landry is now on the outside looking in. This team needs to turn it around, and fast.
 
 
 # EXPECTED STANDINGS (as of week  5 )
 |    | Team                   |  TotalProjWins  |  TotalProjLoss  |
 |:--:|:-----------------------|:---------------:|:---------------:|
-| 1  | Da Coldest In the Game |      9.81       |      3.19       |
-| 2  | Game of  Jones         |      9.39       |      3.61       |
-| 3  | OC Gang                |      7.98       |      5.02       |
-| 4  | Team Ger               |      7.98       |      5.02       |
+| 1  | Da Coldest In the Game |      9.83       |      3.17       |
+| 2  | Game of  Jones         |       9.4       |       3.6       |
+| 3  | OC Gang                |        8        |        5        |
+| 4  | Team Ger               |      7.99       |      5.01       |
 | 5  | King's  Landry         |      6.49       |      6.51       |
-| 6  | Final Deztination      |      6.27       |      6.73       |
-| 7  | Sutton these  Nutz     |      3.08       |      9.92       |
+| 6  | Final Deztination      |      6.28       |      6.72       |
+| 7  | Sutton these  Nutz     |        3        |       10        |
 | 8  | Red Zone  Rockets      |        1        |       12        |
 
 # PLAYOFF PROBABILITIES (as of week  5 )
 |    | Team                   | Playoffs   | 1st Seed   | 2nd Seed   | 3rd Seed   | 4th Seed   |
-|:--:|:-----------------------|:-----------|:-----------|:-----------|:-----------|:-----------|
-| 6  | Da Coldest In the Game | **90.11%** | 42.84%     | 24.28%     | 14.61%     | 8.38%      |
-| 2  | Game of  Jones         | **89.45%** | 32.67%     | 29.64%     | 17.24%     | 9.89%      |
-| 7  | Team Ger               | **65.99%** | 10.24%     | 16.09%     | 20.34%     | 19.31%     |
-| 4  | OC Gang                | **61.14%** | 8.27%      | 14.23%     | 18.71%     | 19.92%     |
-| 1  | Final Deztination      | **43.63%** | 3.15%      | 8.15%      | 15.07%     | 17.26%     |
-| 3  | King's  Landry         | **29.73%** | 2.2%       | 5.18%      | 8.62%      | 13.73%     |
-| 0  | Red Zone  Rockets      | **10.25%** | 0.32%      | 1.24%      | 2.78%      | 5.92%      |
-| 5  | Sutton these  Nutz     | **9.71%**  | 0.3%       | 1.2%       | 2.62%      | 5.59%      |
+|:--:|:-----------------------|:----------:|:----------:|:----------:|:----------:|:----------:|
+| 1  | Da Coldest In the Game | **92.08%** | 44.95%     | 24.41%     | 13.96%     | 8.76%      |
+| 2  | Game of  Jones         | **91.33%** | 33.14%     | 31.4%      | 16.88%     | 9.91%      |
+| 3  | Team Ger               | **66.81%** | 9.09%      | 16.28%     | 21.74%     | 19.7%      |
+| 4  | OC Gang                | **61.77%** | 8.0%       | 13.9%      | 19.03%     | 20.85%     |
+| 5  | Final Deztination      | 43.47%     | 2.67%      | 7.72%      | 14.59%     | 18.49%     |
+| 6  | King's  Landry         | 28.01%     | 1.72%      | 4.45%      | 8.59%      | 13.24%     |
+| 7  | Red Zone  Rockets      | 8.65%      | 0.22%      | 0.96%      | 2.64%      | 4.83%      |
+| 8  | Sutton these  Nutz     | 7.88%      | 0.2%       | 0.9%       | 2.56%      | 4.21%      |
 
 # LUCK INDEX
 | Team                   |  Luck Index  | Owner            |
