@@ -33,7 +33,6 @@ draft: false
 
 **Red Zone Rockets**: Despite Patrick Mahomes playing like the JV backup, the Red Zone Rockets put up a good week and lifted themselves out of the cellar. There's a long way to 5th though so it's unlikely for them to make any more jumps.
 
-
 # EXPECTED STANDINGS (as of week  8 )
 |    | Team                   |  TotalProjWins  |  TotalProjLoss  |
 |:--:|:-----------------------|:---------------:|:---------------:|
@@ -48,7 +47,7 @@ draft: false
 
 # PLAYOFF PROBABILITIES (as of week  8 )
 |    | Team                       | Playoffs   | 1st Seed   | 2nd Seed   | 3rd Seed   | 4th Seed   |
-|:--:|:---------------------------|:-----------|:-----------|:-----------|:-----------|:-----------|
+|:--:|:---------------------------|:----------:|:----------:|:----------:|:----------:|:----------:|
 | 1  | **Game of  Jones**         | **99.12%** | **59.8%**  | **23.08%** | **11.41%** | **4.84%**  |
 | 2  | **Da Coldest In the Game** | **95.59%** | **19.17%** | **35.82%** | **26.87%** | **13.73%** |
 | 3  | **OC Gang**                | **94.88%** | **15.81%** | **28.24%** | **34.23%** | **16.6%**  |
