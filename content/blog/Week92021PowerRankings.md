@@ -9,7 +9,7 @@ draft: false
 # POWER RANKINGS
 
 |    | team                   | Weekly Change                                | AllPlayWin%   |  Value Power Score  |
-|:--:|:-----------------------|:--------------------------------------------:|:-------------:|:-------------------:|
+|:--:|:-----------------------|:---------------------------------------------|:--------------|:-------------------:|
 | 1  | Game of  Jones         |                                              | 73.0%         |        58.34        |
 | 2  | OC Gang                | **<span style="color: green;">⬆️ 1 </span>** | 65.1%         |        54.8         |
 | 3  | Final Deztination      | **<span style="color: green;">⬆️ 1 </span>** | 55.6%         |        49.94        |
@@ -28,27 +28,27 @@ draft: false
 **OC Gang**: The strong week wasn't enough to overtake Game of Jones at the top, but they're right there knocking on the door.
 
 # EXPECTED STANDINGS (as of week  9 )
-|    | Team                   |  TotalProjWins  |  TotalProjLoss  |  SOS  |
-|:--:|:-----------------------|:---------------:|:---------------:|:-----:|
-| 1  | OC Gang                |      9.99       |      3.01       | 4.32  |
-| 2  | Da Coldest In the Game |      9.86       |      3.14       | 4.41  |
-| 3  | Game of  Jones         |      9.53       |      3.47       | 4.71  |
-| 4  | Team Ger               |      7.46       |      5.54       | 5.49  |
-| 5  | Final Deztination      |      6.55       |      6.45       |   5   |
-| 6  | King's  Landry         |      5.12       |      7.88       |  5.3  |
-| 7  | Red Zone  Rockets      |      2.49       |      10.51      |  5.8  |
-| 8  | Sutton these  Nutz     |        1        |       12        | 5.62  |
+|    | Team                   |  TotalProjWins  |  TotalProjLoss  |
+|:--:|:-----------------------|:---------------:|:---------------:|
+| 1  | OC Gang                |      9.99       |      3.01       |
+| 2  | Da Coldest In the Game |      9.86       |      3.14       |
+| 3  | Game of  Jones         |      9.53       |      3.47       |
+| 4  | Team Ger               |      7.46       |      5.54       |
+| 5  | Final Deztination      |      6.55       |      6.45       |
+| 6  | King's  Landry         |      5.12       |      7.88       |
+| 7  | Red Zone  Rockets      |      2.49       |      10.51      |
+| 8  | Sutton these  Nutz     |        1        |       12        |
 
 # PLAYOFF PROBABILITIES (as of week  9 )
 |    | Team                       | Playoffs   | 1st Seed   | 2nd Seed   | 3rd Seed   | 4th Seed   |
-|:--:|:---------------------------|:----------:|:----------:|:----------:|:----------:|:----------:|
-| 1  | **Da Coldest In the Game** | **99.57%** | **31.07%** | **36.81%** | **26.21%** | **5.48%**  |
-| 2  | **Game of  Jones**         | **99.37%** | **46.12%** | **27.09%** | **20.85%** | **5.31%**  |
-| 3  | **OC Gang**                | **99.31%** | **21.86%** | **31.98%** | **38.54%** | **6.93%**  |
-| 4  | **Team Ger**               | **60.53%** | **0.94%**  | **3.67%**  | **11.02%** | **44.9%**  |
-| 5  | Final Deztination          | 36.69%     | 0.02%      | 0.45%      | 3.22%      | 33.01%     |
-| 6  | King's  Landry             | 4.17%      | 0.0%       | 0.0%       | 0.17%      | 4.0%       |
-| 7  | Red Zone  Rockets          | 0.36%      | 0.0%       | 0.0%       | 0.0%       | 0.36%      |
+|:--:|:---------------------------|:-----------|:-----------|:-----------|:-----------|:-----------|
+| 1  | **Da Coldest In the Game** | **99.91%** | **31.11%** | **38.63%** | **25.63%** | **4.55%**  |
+| 2  | **Game of  Jones**         | **99.9%**  | **47.72%** | **26.56%** | **21.28%** | **4.35%**  |
+| 3  | **OC Gang**                | **99.9%**  | **20.95%** | **32.46%** | **42.68%** | **3.81%**  |
+| 4  | **Team Ger**               | **61.06%** | **0.22%**  | **2.31%**  | **8.94%**  | **49.58%** |
+| 5  | Final Deztination          | 36.25%     | 0.0%       | 0.05%      | 1.48%      | 34.72%     |
+| 6  | King's  Landry             | 2.88%      | 0.0%       | 0.0%       | 0.0%       | 2.88%      |
+| 7  | Red Zone  Rockets          | 0.1%       | 0.0%       | 0.0%       | 0.0%       | 0.1%       |
 | 8  | Sutton these  Nutz         | 0.0%       | 0.0%       | 0.0%       | 0.0%       | 0.0%       |
 
 # LUCK INDEX
