@@ -1,6 +1,6 @@
 ---
 title: Week 10 2021 Report
-date: 2020-MONTH-DAY
+date: 2020-11-16
 image: /images/2021week10.jpeg
 draft: false
 ---
