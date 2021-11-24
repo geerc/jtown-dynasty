@@ -21,6 +21,7 @@ draft: false
 
 ##Highlights:
 
+**King's Landry**: A fluke win this week bumps them up above Sutton these Nutz crowning them the best of the worst. Too bad they have a 0.0% shot at the playoffs.
 
 # EXPECTED STANDINGS (as of week  11 )
 |    | Team                   |  TotalProjWins  |  TotalProjLoss  |
