@@ -1,6 +1,6 @@
 ---
 title: Week 11 2021 Report
-date: 2020-MONTH-DAY
+date: 2020-11-23
 image: /images/2021week11.jpeg
 draft: false
 ---
