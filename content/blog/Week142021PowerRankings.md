@@ -21,6 +21,11 @@ draft: false
 
 ##Highlights:
 
+**OC Gang**: After a *nearly* historic week (shoutout Nick Chubb), OC Gang retakes the top spot going into the playoffs.
+
+**Final Deztination**: They barely snuck out a win against the league's bottom dwelling team, but they still won, and **Team Ger** blew it so they control they're destiny now. As long as they stay within about 50 of Team Ger next week they're in.
+
+**Red Zone Rockets**: The uspet over Team Ger jumps them back over Sutton these Nutz and out  of the bottom. 
 
 # EXPECTED STANDINGS (as of week  14 )
 |    | Team                   |  TotalProjWins  |  TotalProjLoss  |
