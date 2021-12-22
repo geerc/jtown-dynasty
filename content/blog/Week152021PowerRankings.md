@@ -21,7 +21,7 @@ draft: false
 
 ##Highlights:
 
-**Games of Jones**: Games of Jones took advantage jumps ahead of OC Gang for the top spot, but still wasn't able to grab the #1 seed.
+**Games of Jones**: Games of Jones took advantage of a down week from OC Gang and takes over the top spot, but still wasn't able to grab the #1 seed.
 
 **Team Ger**: After holding a multiple game lead over Final Deztination for the 4th seed late in the season, Team Ger lost their last 5 games and falls out of the playoffs. A disastrous finish to the season for a team that showed flashes of promise throughout.
 
