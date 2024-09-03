@@ -3,7 +3,7 @@
 echo "================================================================================"
 echo "Installing PHP $PHP_VERSION..."
 if [ -z $PHP_VERSION ]; then
-  PHP_VERSION='7.2'
+  PHP_VERSION='7.4'
 fi
 amazon-linux-extras install php$PHP_VERSION
 if [ $? != 0 ]; then exit; fi
