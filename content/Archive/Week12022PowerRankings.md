@@ -1,6 +1,6 @@
 ---
 title: Week 1 2021 Report
-date: 2022-MONTH-DAY
+date: 2022-09-10
 image: /images/2022week1.jpeg
 draft: false
 ---

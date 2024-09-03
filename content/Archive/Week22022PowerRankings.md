@@ -1,6 +1,6 @@
 ---
 title: Week 2 2021 Report
-date: 2022-MONTH-DAY
+date: 2022-09-10
 image: /images/2022week2.jpeg
 draft: false
 ---
