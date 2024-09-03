@@ -1,15 +1,14 @@
 ---
 title: Week 2 2021 Report
-date: 2020-MONTH-DAY
-image: /images/2021week2.jpeg
+date: 2022-MONTH-DAY
+image: /images/2022week2.jpeg
 draft: false
 ---
 <!-- excerpt -->
 
 # POWER RANKINGS
-
 |    | team                      | Weekly Change                                | AllPlayWin%   |  Value Power Score  |
-|:--:|:--------------------------|:---------------------------------------------|:--------------|:-------------------:|
+|:--:|:--------------------------|:--------------------------------------------:|:-------------:|:-------------------:|
 | 1  | Game of  Jones            |                                              | 85.7%         |         60          |
 | 2  | Cobra Ky-lers             | **<span style="color: green;">⬆️ 2 </span>** | 64.3%         |        37.66        |
 | 3  | Red Zone  Rockets         |                                              | 78.6%         |        31.48        |
@@ -18,9 +17,6 @@ draft: false
 | 6  | OC Gang                   | **<span style="color: red;">⬇️ 1 </span>**   | 42.9%         |        -0.13        |
 | 7  | Team Ger                  |                                              | 14.3%         |       -24.41        |
 | 8  | Fournette's Offseason Fat |                                              | 0.0%          |         -40         |
-
-##Highlights:
-
 
 # EXPECTED STANDINGS (as of week  2 )
 |    | Team                      |  TotalProjWins  |  TotalProjLoss  |
