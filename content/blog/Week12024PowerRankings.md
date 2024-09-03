@@ -1,6 +1,6 @@
 ---
 title: Week 1 2021 Report
-date: 2020- 9 - 3
+date: 2020-09-03
 image: /images/2021week1.jpeg
 draft: true
 ---
