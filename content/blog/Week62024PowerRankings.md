@@ -1,8 +1,8 @@
 ---
 title: Week 6 2024 Report
 date:  2024-09-06
-image: /images/2024week6.jpeg
-draft: true
+image: /images/2024week1.jpeg
+draft: false
 ---
 <!-- excerpt -->
 
