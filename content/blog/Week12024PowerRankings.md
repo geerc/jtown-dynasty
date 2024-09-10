@@ -1,8 +1,8 @@
 ---
 title: Week 1 2024 Report
-date:  2024-09-04
-image: /images/2024week1.jpeg
-draft: true
+date:  2024-09-10
+image: /images/2024week1.jpg
+draft: false
 ---
 <!-- excerpt -->
 
@@ -10,97 +10,87 @@ draft: true
 
 |    | Team                 |  Power Score  |
 |:--:|:---------------------|:-------------:|
-| 0  | Red Zone  Rockets    |       0       |
-| 1  | Final Deztination    |       0       |
-| 2  | Game of  Jones       |       0       |
-| 3  | Comeback Cardinals   |       0       |
-| 4  | OC Gang              |       0       |
-| 5  | Hurts Donit          |       0       |
-| 6  | Shippin Up To Austin |       0       |
-| 7  | Team Ger             |       0       |
+| 0  | Red Zone  Rockets    |     31.45     |
+| 1  | Game of  Jones       |     25.9      |
+| 2  | Shippin Up To Austin |      25       |
+| 3  | Comeback Cardinals   |     22.65     |
+| 4  | Hurts Donit          |     22.45     |
+| 5  | Final Deztination    |     20.05     |
+| 6  | Team Ger             |     17.5      |
+| 7  | OC Gang              |     17.45     |
 
 ## Summary:
 
-**Fantasy Football Matchups: A Clash of Titans**
+**Fantasy Football Matchup Recap: Week of Surprises and Stellar Performances**
 
-As the fantasy football season heats up, this week's matchups promise to deliver excitement and drama. Here’s a look at the key matchups, projected scores, and standout players to watch.
-
----
+In an exhilarating week of fantasy football, several matchups showcased the unpredictability and excitement of the sport. Here’s a detailed look at the standout games, key players, and notable performances.
 
 **Final Deztination vs. Shippin Up To Austin**
 
-In a highly anticipated showdown, **Final Deztination** is projected to score **160.92**, while **Shippin Up To Austin** trails slightly with a projection of **146.94**. 
+In a high-scoring affair, **Shippin Up To Austin** triumphed over **Final Deztination** with a final score of **156.22** to **139.86**. The away team exceeded their projected score of **146.27**, while the home team narrowly surpassed their projection of **136.19**.
 
-**Final Deztination** boasts a formidable lineup, featuring:
-- **Christian McCaffrey (RB)**: Projected to score **22.44** points, he is expected to be a game-changer.
-- **Ja'Marr Chase (WR)**: With a projection of **19.26** points, Chase is poised to make significant contributions.
-- **Dak Prescott (QB)**: Expected to add **16.35** points, Prescott's performance will be crucial.
+Key players for **Shippin Up To Austin** included:
+- **Lamar Jackson (QB)**: 25.12 points (Projected: 20.23)
+- **Mike Evans (WR)**: 23.1 points (Projected: 15.18)
+- **Stefon Diggs (WR)**: 21.9 points (Projected: 14.28)
 
-On the other side, **Shippin Up To Austin** counters with:
-- **Lamar Jackson (QB)**: Projected at **20.22** points, Jackson's dual-threat ability could turn the tide.
-- **Amon-Ra St. Brown (WR)**: With a projection of **19.41** points, he is a key target in the passing game.
-- **Isiah Pacheco (RB)**: Expected to score **15.27** points, Pacheco's ground game will be vital.
-
----
+For **Final Deztination**, standout performances came from:
+- **Alvin Kamara (RB)**: 22.0 points (Projected: 17.69)
+- **Jake Moody (K)**: 26.0 points (Projected: 7.7)
+- **Cowboys D/ST**: 19.0 points (Projected: 6.94)
 
 **Game of Jones vs. Red Zone Rockets**
 
-In another exciting matchup, **Game of Jones** is projected to score **152.94**, while **Red Zone Rockets** leads with a projection of **165.73**.
+In another thrilling matchup, **Red Zone Rockets** edged out **Game of Jones** with a score of **198.94** to **179.7**. The away team significantly outperformed their projection of **169.32**, while the home team also exceeded their projected score of **151.46**.
 
-**Game of Jones** features:
-- **Jordan Love (QB)**: Projected to score **18.42** points, his performance will be pivotal.
-- **Rachaad White (RB)**: Expected to contribute **17.13** points, White's versatility is a key asset.
-- **Deebo Samuel Sr. (WR)**: With a projection of **16.15** points, he is a dynamic playmaker.
+Notable players for **Red Zone Rockets** included:
+- **Saquon Barkley (RB)**: 33.2 points (Projected: 17.31)
+- **A.J. Brown (WR)**: 22.9 points (Projected: 17.19)
+- **Joe Mixon (RB)**: 26.8 points (Projected: 16.25)
 
-**Red Zone Rockets** counters with:
-- **Patrick Mahomes (QB)**: Projected at **19.48** points, Mahomes is always a threat to light up the scoreboard.
-- **Tyreek Hill (WR)**: Expected to score **19.69** points, Hill's speed and agility make him a constant deep threat.
-- **Breece Hall (RB)**: Projected at **17.90** points, Hall's ability to break tackles will be crucial.
-
----
+**Game of Jones** saw impressive contributions from:
+- **Cooper Kupp (WR)**: 32.0 points (Projected: 14.77)
+- **De'Von Achane (RB)**: 23.0 points (Projected: 13.99)
+- **Jordan Love (QB)**: 16.4 points (Projected: 18.41)
 
 **Team Ger vs. Hurts Donit**
 
-In a matchup that could go either way, **Team Ger** is projected to score **132.35**, while **Hurts Donit** is slightly ahead with **150.21**.
+In a closely contested battle, **Hurts Donit** narrowly defeated **Team Ger** with a score of **139.32** to **122.98**. The away team fell short of their projected score of **150.29**, while the home team also underperformed against their projection of **137.97**.
 
-**Team Ger** highlights include:
-- **Josh Allen (QB)**: Projected to score **23.63** points, Allen's dual-threat capability is unmatched.
-- **CeeDee Lamb (WR)**: Expected to contribute **20.30** points, Lamb is a key target in the passing game.
-- **DK Metcalf (WR)**: With a projection of **14.61** points, Metcalf's physicality will be a factor.
+Key players for **Hurts Donit** included:
+- **James Conner (RB)**: 19.3 points (Projected: 13.33)
+- **Bijan Robinson (RB)**: 16.1 points (Projected: 18.56)
+- **Jalen Hurts (QB)**: 16.42 points (Projected: 21.2)
 
-**Hurts Donit** counters with:
-- **Jalen Hurts (QB)**: Projected at **21.20** points, Hurts is a dynamic playmaker.
-- **Bijan Robinson (RB)**: Expected to score **18.56** points, Robinson's versatility is a game-changer.
-- **Chris Olave (WR)**: Projected at **16.28** points, Olave's route-running skills will be crucial.
-
----
+**Team Ger** had standout performances from:
+- **Josh Allen (QB)**: 31.18 points (Projected: 23.63)
+- **Chris Godwin (WR)**: 22.3 points (Projected: 13.89)
+- **Rhamondre Stevenson (RB)**: 21.6 points (Projected: 13.08)
 
 **OC Gang vs. Comeback Cardinals**
 
-In the final matchup, **OC Gang** is projected to score **157.68**, while **Comeback Cardinals** is projected at **146.06**.
+In a matchup that saw **Comeback Cardinals** defeat **OC Gang** with a score of **140.28** to **122.46**, the away team also fell short of their projected score of **150.5**, while the home team underperformed against their projection of **157.76**.
 
-**OC Gang** features:
-- **C.J. Stroud (QB)**: Projected to score **19.19** points, Stroud's poise will be essential.
-- **Jonathan Taylor (RB)**: Expected to contribute **16.77** points, Taylor's explosiveness is a key asset.
-- **Davante Adams (WR)**: With a projection of **16.39** points, Adams is a reliable target.
+Key players for **Comeback Cardinals** included:
+- **Anthony Richardson (QB)**: 26.08 points (Projected: 19.14)
+- **Jahmyr Gibbs (RB)**: 17.4 points (Projected: 16.59)
+- **Justin Jefferson (WR)**: 15.9 points (Projected: 18.13)
 
-**Comeback Cardinals** counters with:
-- **Kyler Murray (QB)**: Projected at **17.87** points, Murray's mobility is a constant threat.
-- **Justin Jefferson (WR)**: Expected to score **18.14** points, Jefferson's ability to make big plays is unmatched.
-- **Jahmyr Gibbs (RB)**: Projected at **16.59** points, Gibbs' versatility will be crucial.
+**OC Gang** saw notable contributions from:
+- **Kenneth Walker III (RB)**: 18.9 points (Projected: 16.11)
+- **Rashee Rice (WR)**: 17.3 points (Projected: 14.01)
+- **C.J. Stroud (QB)**: 18.66 points (Projected: 19.17)
 
----
-
-As the matchups unfold, fans and fantasy managers alike will be glued to their screens, hoping for standout performances from their star players. With projected scores so close, every point will count in this thrilling week of fantasy football.
+As the season progresses, these matchups highlight the unpredictable nature of fantasy football, where standout performances can come from unexpected players, and projections can often be surpassed or fall short. Fans and managers alike will be eagerly watching as the competition heats up in the coming weeks.
 
 ## LUCK INDEX
-|    | Team                       |  Luck Index  |
-|:--:|:---------------------------|:------------:|
-| 0  | Team(Red Zone  Rockets)    |  -0.132143   |
-| 1  | Team(Final Deztination)    |  -0.132143   |
-| 2  | Team(Game of  Jones)       |  -0.132143   |
-| 3  | Team(Comeback Cardinals)   |  -0.132143   |
-| 4  | Team(OC Gang)              |  -0.132143   |
-| 5  | Team(Hurts Donit)          |  -0.132143   |
-| 6  | Team(Shippin Up To Austin) |  -0.132143   |
-| 7  | Team(Team Ger)             |  -0.132143   |
+|    | Team                 |  Luck Index  |
+|:--:|:---------------------|:------------:|
+| 0  | Hurts Donit          |     0.43     |
+| 1  | Comeback Cardinals   |     0.31     |
+| 2  | Shippin Up To Austin |     0.25     |
+| 3  | Red Zone  Rockets    |     0.13     |
+| 4  | OC Gang              |     0.13     |
+| 5  | Team Ger             |     0.07     |
+| 6  | Final Deztination    |    -0.05     |
+| 7  | Game of  Jones       |    -0.23     |
