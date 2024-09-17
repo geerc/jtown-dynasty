@@ -8,16 +8,16 @@ draft: false
 
 # POWER RANKINGS
 
-|    | Team                 |  Power Score  | Weekly Change                                |  Performance Rank  |  KTC Value Rank  |
-|:--:|:---------------------|:-------------:|:---------------------------------------------|:------------------:|:----------------:|
-| 0  | Red Zone  Rockets    |      89       |                                              |         3          |        2         |
-| 1  | Hurts Donit          |      86       |                                              |         4          |        1         |
-| 2  | Comeback Cardinals   |      85       | **<span style="color: green;">⬆️ 1 </span>** |         2          |        4         |
-| 3  | Shippin Up To Austin |      56       | **<span style="color: green;">⬆️ 4 </span>** |         1          |        8         |
-| 4  | Team Ger             |      48       | **<span style="color: green;">⬆️ 1 </span>** |         5          |        5         |
-| 5  | OC Gang              |      35       | **<span style="color: red;">⬇️ 1 </span>**   |         8          |        3         |
-| 6  | Final Deztination    |      34       |                                              |         6          |        6         |
-| 7  | Game of  Jones       |      28       | **<span style="color: red;">⬇️ 5 </span>**   |         6          |        7         |
+|    | Team                 |  Power Score  |                Weekly Change                 |  Performance Rank  |  KTC Value Rank  |
+|:--:|:---------------------|:-------------:|:--------------------------------------------:|:------------------:|:----------------:|
+| 1  | Red Zone  Rockets    |      89       |                                              |         3          |        2         |
+| 2  | Hurts Donit          |      86       |                                              |         4          |        1         |
+| 3  | Comeback Cardinals   |      85       | **<span style="color: green;">⬆️ 1 </span>** |         2          |        4         |
+| 4  | Shippin Up To Austin |      56       | **<span style="color: green;">⬆️ 4 </span>** |         1          |        8         |
+| 5  | Team Ger             |      48       | **<span style="color: green;">⬆️ 1 </span>** |         5          |        5         |
+| 6  | OC Gang              |      35       |  **<span style="color: red;">⬇️ 1 </span>**  |         8          |        3         |
+| 7  | Final Deztination    |      34       |                                              |         6          |        6         |
+| 8  | Game of  Jones       |      28       |  **<span style="color: red;">⬇️ 5 </span>**  |         6          |        7         |
 
 ## Summary:
 
