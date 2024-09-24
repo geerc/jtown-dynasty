@@ -1,23 +1,23 @@
 ---
 title: Week 3 2024 Report
 date: 2024-09-24
-image: /images/2024week3.jpeg
+image: /images/2024week3.jpg
 draft: false
 ---
 <!-- excerpt -->
 
 # POWER RANKINGS
 
-|    |         Team         |  Power Score  |                Weekly Change                 |  Performance Rank  |   KTC Value Rank |
-|:---|:--------------------:|:-------------:|:--------------------------------------------:|:------------------:|-----------------:|
-| 1  |  Comeback Cardinals  |      82       | **<span style="color: green;">⬆️ 1 </span>** |         2          |                5 |
-| 2  |  Red Zone  Rockets   |      77       | **<span style="color: green;">⬆️ 1 </span>** |         3          |                2 |
-| 3  |     Hurts Donit      |      73       |  **<span style="color: red;">⬇️ 2 </span>**  |         4          |                1 |
-| 4  | Shippin Up To Austin |      60       |                                              |         1          |                8 |
-| 5  |       Team Ger       |      50       |                                              |         5          |                3 |
-| 6  |       OC Gang        |      31       | **<span style="color: green;">⬆️ 1 </span>** |         7          |                4 |
-| 7  |  Final Deztination   |      27       |  **<span style="color: red;">⬇️ 1 </span>**  |         6          |                6 |
-| 8  |    Game of  Jones    |       9       |                                              |         8          |                7 |
+|    | Team                 |  Power Score  |                Weekly Change                 |  Performance Rank  |  KTC Value Rank   |
+|:--:|:---------------------|:-------------:|:--------------------------------------------:|:------------------:|:-----------------:|
+| 1  | Comeback Cardinals   |      82       | **<span style="color: green;">⬆️ 1 </span>** |         2          |         5         |
+| 2  | Red Zone  Rockets    |      77       | **<span style="color: green;">⬆️ 1 </span>** |         3          |         2         |
+| 3  | Hurts Donit          |      73       |  **<span style="color: red;">⬇️ 2 </span>**  |         4          |         1         |
+| 4  | Shippin Up To Austin |      60       |                                              |         1          |         8         |
+| 5  | Team Ger             |      50       |                                              |         5          |         3         |
+| 6  | OC Gang              |      31       | **<span style="color: green;">⬆️ 1 </span>** |         7          |         4         |
+| 7  | Final Deztination    |      27       |  **<span style="color: red;">⬇️ 1 </span>**  |         6          |         6         |
+| 8  | Game of  Jones       |       9       |                                              |         8          |         7         |
 
 ## Summary:
 
