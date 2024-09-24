@@ -1,7 +1,7 @@
 ---
 title: Week 3 2024 Report
 date: 2024-09-24
-image: /images/2024week3.jpg
+image: /images/2024week3.jpeg
 draft: false
 ---
 <!-- excerpt -->
