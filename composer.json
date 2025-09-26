@@ -15,7 +15,8 @@
     "cecil/theme-hyde": "^1.18",
     "cecil/theme-garth": "^1.2",
     "cecil/theme-netlify": "^1.1",
-    "cecil/theme-netlifycms": "^1.5"
+    "cecil/theme-netlifycms": "^1.5",
+    "php": "^8.1"
   },
   "config": {
     "allow-plugins": {
