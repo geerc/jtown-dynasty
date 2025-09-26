@@ -1,5 +1,4 @@
 [build]
-  [build]
   command = "composer install --prefer-dist && chmod +x .netlify/build.sh && bash .netlify/build.sh"
   publish = "_site"
 
