@@ -26,3 +26,9 @@ menus:
       name: "The author"
       url: https://arnaudligny.fr
       weight: 99
+
+pages:
+  pagination:
+    max: 10       # how many items per page
+    path: page    # URL segment for paginated pages
+
