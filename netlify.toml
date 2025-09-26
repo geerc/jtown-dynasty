@@ -1,5 +1,7 @@
 [build]
-  command = "chmod +x .netlify/build.sh && bash .netlify/build.sh"
+  # Install PHP dependencies, then run your build script
+  command = "composer install --no-dev --prefer-dist && chmod +x .netlify/build.sh && bash .netlify/build.sh"
+  # The folder that Cecil outputs to
   publish = "_site"
   environment = { PHP_VERSION = "8.2", CECIL_VERSION = "5.36.0" }
 
