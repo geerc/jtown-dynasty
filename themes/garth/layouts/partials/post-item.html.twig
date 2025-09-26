@@ -1,0 +1,9 @@
+              {#- post ~#}
+              <article class="article article--post typeset">
+                <h2><a href="{{ url(post) }}">{{ post.title }}</a></h2>
+                {%- include 'partials/post-meta.html.twig' with {'post': post} only ~%}
+                {%- if post.image is defined and page.type|default('page') == 'homepage' ~%}
+                {{ asset(post.image)|html({alt: post.title}, {responsive: true}) }}
+                {%- endif ~%}
+                {{ post.content|excerpt_html }}
+              </article>

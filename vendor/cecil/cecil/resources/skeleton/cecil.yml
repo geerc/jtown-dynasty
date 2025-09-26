@@ -1,0 +1,10 @@
+title: Site title
+baseline: ''
+baseurl: https://domain.tld/
+description: Site description.
+author:
+  name: Cecil
+  url: https://cecil.app
+image: icon.png
+taxonomies:
+  tags: tag

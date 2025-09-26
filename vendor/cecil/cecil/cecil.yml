@@ -1,0 +1,24 @@
+title: Cecil
+baseline: A simple and powerful content-driven static site generator
+description: Cecil, a simple and powerful content-driven static site generator.
+language: en
+languages:
+  - code: en
+    name: English
+    locale: en
+  - code: fr
+    enabled: true
+    name: Français
+    locale: fr_FR
+menus:
+  main:
+    - id: index
+      name: Home
+  dir: ./
+  exclude: ['bin', 'config', 'dist', 'resources', 'scripts', 'src', 'tests', 'vendor']
+  sortby: weight
+pages:
+  pagination:
+    enabled: false
+assets:
+  dir: ./

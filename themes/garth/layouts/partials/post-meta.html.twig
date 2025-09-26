@@ -1,0 +1,14 @@
+                {#- post meta -#}
+                {%- if post.tags is defined -%}
+                  {%- set category ~%}
+                  <span class="label label--category">
+                    {%- for tag in post.tags|slice(0, 1) ~%}
+                    <a href="{{ url('tags/' ~ tag, {language: site.language}) }}">{{ tag }}</a>
+                    {%- endfor ~%}
+                  </span>
+                  {%- endset -%}
+                {%- endif ~%}
+                <small class="small post-meta">
+                  {%- if category is defined is not empty %}{{ category ~ "&nbsp;&middot;&nbsp;" -}}{% endif ~%}
+                  <time datetime="{{ post.date|date('c') }}" class="time">{{ post.date|format_date('long') }}</time>
+                </small>

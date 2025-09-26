@@ -1,0 +1,84 @@
+#!/usr/bin/env php
+<?php declare(strict_types=1);
+
+/*
+ * This file is part of Cecil.
+ *
+ * Copyright (c) Arnaud Ligny <arnaud@ligny.fr>
+ *
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ */
+
+if (PHP_SAPI !== 'cli' && PHP_SAPI !== 'phpdbg') {
+    printf('Warning: Cecil should be invoked via the CLI version of PHP, not the %s SAPI.%S', PHP_SAPI, PHP_EOL);
+}
+
+setlocale(LC_ALL, 'C');
+if (!date_default_timezone_get()) {
+    date_default_timezone_set('UTC');
+}
+
+require __DIR__ . '/../src/bootstrap.php';
+
+use Cecil\Application;
+use Cecil\Builder;
+
+error_reporting(E_ERROR);
+if (getenv('CECIL_DEBUG') == 'true') {
+    error_reporting(E_ALL ^ E_NOTICE);
+}
+
+$name                  = 'Cecil';
+$version               = '@git_version@';
+$phpMinimumVersion     = '8.1.0';
+$phpRequiredExtensions = ['fileinfo', 'gd', 'mbstring'];
+
+// checks PHP minimal version
+if (version_compare(PHP_VERSION, $phpMinimumVersion, '<')) {
+    printf('PHP %s is required (current version: %s).%s', $phpMinimumVersion, PHP_VERSION, PHP_EOL);
+    exit(1);
+}
+
+// checks if required PHP extensions are loaded
+foreach ($phpRequiredExtensions as $extension) {
+    if (!extension_loaded($extension)) {
+        printf('Unable to proceed because %s requires PHP extension `%s` to be installed and loaded.%s', $name, $extension, PHP_EOL);
+        exit(1);
+    }
+}
+
+// increase memory_limit to 1.5GB
+if (function_exists('ini_set')) {
+    @ini_set('display_errors', '1');
+
+    $memoryInBytes = function ($value) {
+        $unit = strtolower(substr($value, -1, 1));
+        $value = (int) $value;
+        switch($unit) {
+            case 'g':
+                $value *= 1024;
+            case 'm':
+                $value *= 1024;
+            case 'k':
+                $value *= 1024;
+        }
+
+        return $value;
+    };
+
+    $memoryLimit = trim(ini_get('memory_limit'));
+    if ($memoryLimit != -1 && $memoryInBytes($memoryLimit) < 1024 * 1024 * 1536) {
+        @ini_set('memory_limit', '1536M');
+    }
+    unset($memoryInBytes, $memoryLimit);
+}
+
+$version = ($version === '@' . 'git_version' . '@')
+    ? Builder::getVersion()
+    : $version;
+
+$application = new Application($name, $version);
+
+$exit = $application->run();
+exit($exit);
