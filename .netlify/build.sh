@@ -2,11 +2,13 @@
 set -e
 
 echo "Downloading Cecil"
-if [ -z "$CECIL_VERSION" ]; then
-  curl -sSLo cecil.phar -L https://cecil.app/cecil.phar
+if [ -z $CECIL_VERSION ]; then
+  curl -sSOL -L https://cecil.app/cecil.phar
 else
-  curl -sSLo cecil.phar -L https://cecil.app/download/$CECIL_VERSION/cecil.phar
+  curl -sSOL -L https://cecil.app/download/$CECIL_VERSION/cecil.phar
 fi
+php cecil.phar --version
+
 
 # Check that cecil.phar is a valid PHAR
 if ! php -d phar.readonly=0 cecil.phar --version; then
