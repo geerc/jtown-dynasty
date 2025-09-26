@@ -1,7 +1,7 @@
 title: Jtown Dynasty
 baseline: Jenkintown's Finest
 description: THE fantasy football league of Jenkintown
-baseurl: /
+baseurl: https://jtowndynasty.netlify.app
 canonicalurl: true
 keywords: [Cecil, Static Site Generator, SSG]
 author: Christian Geer

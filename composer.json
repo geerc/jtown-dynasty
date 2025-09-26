@@ -16,5 +16,13 @@
     "cecil/theme-garth": "^1.2",
     "cecil/theme-netlify": "^1.1",
     "cecil/theme-netlifycms": "^1.5"
+  },
+  "config": {
+    "allow-plugins": {
+      "cecil/theme-installer": true
+    }
+  },
+  "require-dev": {
+    "cecil/cecil": "^8.66"
   }
 }
