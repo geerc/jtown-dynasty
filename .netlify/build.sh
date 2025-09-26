@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 set -e
 
 echo "Downloading Cecil"
@@ -11,15 +11,15 @@ fi
 php cecil.phar --version
 
 echo "Started Cecil build"
-
-# Use DEPLOY_PRIME_URL for preview builds, SITE_URL for production (set in Netlify env)
-BASEURL="${DEPLOY_PRIME_URL:-$URL}"
-
-# Build site
-if [[ $1 == "preview" ]]; then
-  php cecil.phar build -v --baseurl="$BASEURL" --drafts
+if [[ "$1" == "preview" ]]; then
+  php cecil.phar build -v --baseurl=$DEPLOY_PRIME_URL --drafts
 else
-  php cecil.phar build -v --baseurl="$BASEURL" --postprocess
+  php cecil.phar build -v --baseurl=$URL --postprocess
 fi
 
-echo "Finished Cecil build"
+# Verify that _site was actually created
+if [ -d "_site" ]; then
+  echo "Finished Cecil build ✅"
+  exit 0
+else
+  echo "B
