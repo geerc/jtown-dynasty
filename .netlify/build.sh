@@ -3,12 +3,16 @@ set -e
 
 echo "Downloading Cecil"
 if [ -z "$CECIL_VERSION" ]; then
-  curl -sSOL https://cecil.app/cecil.phar
+  curl -sSLo cecil.phar -L https://cecil.app/cecil.phar
 else
-  curl -sSOL https://cecil.app/download/$CECIL_VERSION/cecil.phar
+  curl -sSLo cecil.phar -L https://cecil.app/download/$CECIL_VERSION/cecil.phar
 fi
 
-php cecil.phar --version
+# Check that cecil.phar is a valid PHAR
+if ! php -d phar.readonly=0 cecil.phar --version; then
+  echo "Failed to run cecil.phar. Check that the download URL is correct."
+  exit 1
+fi
 
 echo "Started Cecil build"
 if [[ "$1" == "preview" ]]; then
@@ -22,4 +26,6 @@ if [ -d "_site" ]; then
   echo "Finished Cecil build ✅"
   exit 0
 else
-  echo "B
+  echo "Build failed: _site directory not found ❌"
+  exit 1
+fi
