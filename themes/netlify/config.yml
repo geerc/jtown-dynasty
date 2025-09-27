@@ -1,11 +1,12 @@
 pages:
   default:
+    path: /                # 👈 Required by Cecil
     redirects:
-        path: _redirects
-        output: netlify_redirects
-        multilingual: false
-        serviceworker:
-          precache: false
+      path: _redirects
+      output: netlify_redirects
+      multilingual: false
+      serviceworker:
+        precache: false
     output:
       formats:
         - name: netlify_redirects

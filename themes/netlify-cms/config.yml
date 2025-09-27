@@ -1,5 +1,6 @@
 pages:
   default:
+    path: /            # 👈 required at the top level of this block
     admin:
       path: admin
       title: "Content Manager (Netlify CMS)"
