@@ -3,12 +3,12 @@
 import Layout from '../../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
 
-const powerRankings = await getCollection('power_rankings');
-
 export async function getStaticPaths() {
+  const powerRankings = await getCollection('power_rankings');
+
   return powerRankings.map((post) => ({
-    params: { slug: post.slug }, // [slug] comes from the filename or frontmatter
-    props: { post }
+    params: { slug: post.slug }, // [slug] comes from filename/frontmatter
+    props: { post },
   }));
 }
 
