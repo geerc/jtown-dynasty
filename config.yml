@@ -28,7 +28,8 @@ menus:
       weight: 99
 
 pages:
-  pagination:
-    max: 10       # how many items per page
-    path: page    # URL segment for paginated pages
-
+  default:        # 👈 new collection
+    path: /       # where the main list lives
+    pagination:
+      max: 10
+      path: page

@@ -3,7 +3,10 @@ hyde:
     sticky: true # Content to the bottom of the sidebar
   theme: '' # red, orange, yellow, green, cyan, blue, magenta, brown or cecil
   reverse: false # Reverse layout
+
 pages:
-  pagination:
-    max: 5
-    path: 'page'
+  default:
+    path: /
+    pagination:
+      max: 5
+      path: page
