@@ -1,13 +1,17 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import Markdown from '../components/Markdown.astro';
-import { glob } from 'astro:content';
 
-// Load all Markdown files in the content folder
-const posts = await glob('../content/power-rankings/*.md');
+// Import all Markdown files
+const postModules = import.meta.glob('../content/power-rankings/*.md', { eager: true });
 
-// Sort posts by date descending
-posts.sort((a, b) => new Date(b.frontmatter.date) - new Date(a.frontmatter.date));
+// Convert modules to an array
+const posts = Object.values(postModules)
+  .map(m => ({
+    ...m.frontmatter,
+    content: m.default
+  }))
+  .sort((a, b) => new Date(b.date) - new Date(a.date));
 ---
 
 <Layout title="Power Rankings">
@@ -16,14 +20,11 @@ posts.sort((a, b) => new Date(b.frontmatter.date) - new Date(a.frontmatter.date)
   <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
     {posts.map(post => (
       <article class="border rounded-lg overflow-hidden shadow-md">
-        <a href={post.url}>
-          <img src={post.frontmatter.image} alt={post.frontmatter.title} class="w-full h-48 object-cover" />
-        </a>
+        <img src={post.image} alt={post.title} class="w-full h-48 object-cover" />
         <div class="p-4">
-          <h2 class="text-xl font-semibold mb-2">{post.frontmatter.title}</h2>
-          <p class="text-sm text-gray-500 mb-4">{post.frontmatter.date}</p>
-          <Markdown content={post.compiledContent()} />
-          <a href={post.url} class="text-blue-600 hover:underline mt-2 inline-block">Read more</a>
+          <h2 class="text-xl font-semibold mb-2">{post.title}</h2>
+          <p class="text-sm text-gray-500 mb-4">{post.date}</p>
+          <Markdown content={post.content} />
         </div>
       </article>
     ))}
