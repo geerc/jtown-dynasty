@@ -1,5 +1,4 @@
 ---
-// src/pages/power-rankings/[slug].astro
 import Layout from '../../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
 
@@ -7,17 +6,20 @@ export async function getStaticPaths() {
   const powerRankings = await getCollection('power_rankings');
 
   return powerRankings.map((post) => ({
-    params: { slug: post.slug }, // [slug] comes from filename/frontmatter
+    params: { slug: post.slug },
     props: { post },
   }));
 }
 
 const { post } = Astro.props;
+// Render Markdown to HTML
+const html = await post.render();
 ---
 
 <Layout title={post.data.title}>
   <article class="prose prose-invert">
     <h1>{post.data.title}</h1>
-    <div innerHTML={post.body}></div>
+    {post.data.image && <img src={post.data.image} alt={post.data.title} />}
+    <div innerHTML={html}></div>
   </article>
 </Layout>
