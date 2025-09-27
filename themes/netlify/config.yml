@@ -1,5 +1,6 @@
 pages:
   default:
+    path: ""       # <- REQUIRED
     redirects:
       path: _redirects
       output: netlify_redirects

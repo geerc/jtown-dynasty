@@ -8,12 +8,10 @@ author: Christian Geer
 date:
   format: F j, Y
   timezone: America/New_York
-
 theme:
   - hyde
   - netlify
   - netlify-cms
-
 hyde:
   sidebar:
     sticky: true
@@ -31,7 +29,7 @@ menus:
 
 pages:
   default:
-    path: ""           # REQUIRED by Cecil
+    path: ""       # <- REQUIRED
     pagination:
       max: 10
       path: page

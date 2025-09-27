@@ -1,5 +1,6 @@
 pages:
   default:
+    path: ""       # <- REQUIRED
     admin:
       path: admin
       title: "Content Manager (Netlify CMS)"
