@@ -20,7 +20,9 @@ if (!post) {
 }
 
 // Render Markdown to HTML
+console.log(post);
 const rendered = await post.render();
+console.log(rendered);
 ---
 
 <Layout title={post.data.title}>
