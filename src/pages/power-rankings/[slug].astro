@@ -1,19 +1,23 @@
 ---
+// src/pages/power-rankings/[slug].astro
 import Layout from '../../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
 
-const posts = await getCollection('power_rankings');
+const powerRankings = await getCollection('power_rankings');
+
+export async function getStaticPaths() {
+  return powerRankings.map((post) => ({
+    params: { slug: post.slug }, // [slug] comes from the filename or frontmatter
+    props: { post }
+  }));
+}
+
+const { post } = Astro.props;
 ---
 
-<Layout title="Power Rankings">
-  <h1>Power Rankings</h1>
-  <ul>
-    {posts.map(post => (
-      <li>
-        <a href={`/power-rankings/${post.slug}`}>
-          {post.data.title}
-        </a>
-      </li>
-    ))}
-  </ul>
+<Layout title={post.data.title}>
+  <article class="prose prose-invert">
+    <h1>{post.data.title}</h1>
+    <div innerHTML={post.body}></div>
+  </article>
 </Layout>
