@@ -12,13 +12,13 @@ export async function getStaticPaths() {
 }
 
 const { post } = Astro.props;
-const { content } = await post.render();
+const { content } = await post.render(); // ✅ renders Markdown content
 ---
 
 <Layout title={post.data.title}>
   <article class="prose prose-invert">
     <h1>{post.data.title}</h1>
     {post.data.image && <img src={post.data.image} alt={post.data.title} />}
-    <div innerHTML={content}></div>
+    <div innerHTML={content}></div> <!-- ✅ Markdown content goes here -->
   </article>
 </Layout>
