@@ -2,6 +2,7 @@
 import Layout from '../../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
 
+// Generate static paths for dynamic routing
 export async function getStaticPaths() {
   const powerRankings = await getCollection('power_rankings');
 
@@ -11,14 +12,53 @@ export async function getStaticPaths() {
   }));
 }
 
+// Get the post from props
 const { post } = Astro.props;
-const { content } = await post.render(); // ✅ renders Markdown content
+
+// Render the Markdown content
+const { content } = await post.render();
 ---
 
 <Layout title={post.data.title}>
   <article class="prose prose-invert">
     <h1>{post.data.title}</h1>
-    {post.data.image && <img src={post.data.image} alt={post.data.title} />}
-    <div innerHTML={content}></div> <!-- ✅ Markdown content goes here -->
+
+    {post.data.image && (
+      <img src={post.data.image} alt={post.data.title} class="mb-4" />
+    )}
+
+    <div innerHTML={content}></div>
+  </article>
+</Layout>
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+// Generate static paths for dynamic routing
+export async function getStaticPaths() {
+  const powerRankings = await getCollection('power_rankings');
+
+  return powerRankings.map((post) => ({
+    params: { slug: post.slug },
+    props: { post },
+  }));
+}
+
+// Get the post from props
+const { post } = Astro.props;
+
+// Render the Markdown content
+const { content } = await post.render();
+---
+
+<Layout title={post.data.title}>
+  <article class="prose prose-invert">
+    <h1>{post.data.title}</h1>
+
+    {post.data.image && (
+      <img src={post.data.image} alt={post.data.title} class="mb-4" />
+    )}
+
+    <div innerHTML={content}></div>
   </article>
 </Layout>
