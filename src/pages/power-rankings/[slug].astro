@@ -1,4 +1,5 @@
 ---
+// src/pages/power-rankings/[slug].astro
 import Layout from '../../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
 
@@ -7,16 +8,22 @@ export async function getStaticPaths() {
 
   return powerRankings.map((post) => ({
     params: { slug: post.slug },
-    props: { slug: post.slug }, // only pass slug
   }));
 }
 
-const { slug } = Astro.props;
+const { slug } = Astro.params;
+const powerRankings = await getCollection('power_rankings');
+const post = powerRankings.find((p) => p.slug === slug);
+
+if (!post) {
+  throw new Error(`No post found for slug: ${slug}`);
+}
 ---
 
-<Layout>
+<Layout title={post.data.title}>
   <article class="prose prose-invert">
-    <h1>{slug}</h1>
-    <p>Content rendering here...</p>
+    <h1>{post.data.title}</h1>
+    <img src={post.data.image} alt={post.data.title} />
+    <div innerHTML={post.body}></div>
   </article>
 </Layout>
