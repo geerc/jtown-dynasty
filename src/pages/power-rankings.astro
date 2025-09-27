@@ -1,31 +1,22 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import Markdown from '../components/Markdown.astro';
+import { getCollection } from 'astro:content';
 
-// Import all Markdown files
-const postModules = import.meta.glob('../content/power-rankings/*.md', { eager: true });
-
-// Convert modules to an array
-const posts = Object.values(postModules)
-  .map(m => ({
-    ...m.frontmatter,
-    content: m.default
-  }))
-  .sort((a, b) => new Date(b.date) - new Date(a.date));
+const posts = await getCollection('power_rankings');
 ---
 
 <Layout title="Power Rankings">
-  <h1 class="mb-10 text-3xl font-bold">Power Rankings</h1>
-
-  <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+  <h1 class="text-3xl font-bold mb-8">Power Rankings</h1>
+  <div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
     {posts.map(post => (
-      <article class="border rounded-lg overflow-hidden shadow-md">
-        <img src={post.image} alt={post.title} class="w-full h-48 object-cover" />
-        <div class="p-4">
-          <h2 class="text-xl font-semibold mb-2">{post.title}</h2>
-          <p class="text-sm text-gray-500 mb-4">{post.date}</p>
-          <Markdown content={post.content} />
-        </div>
+      <article class="border rounded-lg overflow-hidden shadow hover:shadow-lg transition">
+        <a href={`/power-rankings/${post.slug}`}>
+          {post.data.image && <img src={post.data.image} alt={post.data.title} class="w-full h-48 object-cover" />}
+          <div class="p-4">
+            <h2 class="text-xl font-semibold">{post.data.title}</h2>
+            {post.data.excerpt && <p class="mt-2 text-gray-400">{post.data.excerpt}</p>}
+          </div>
+        </a>
       </article>
     ))}
   </div>
