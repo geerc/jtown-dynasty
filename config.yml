@@ -8,15 +8,17 @@ author: Christian Geer
 date:
   format: F j, Y
   timezone: America/New_York
+
 theme:
   - hyde
   - netlify
   - netlify-cms
+
 hyde:
   sidebar:
-    sticky: true # Content to the bottom of the sidebar
-  theme: 'cecil' # red, orange, yellow, green, cyan, blue, magenta, brown or cecil
-  reverse: false # Reverse layout
+    sticky: true
+  theme: 'cecil'
+  reverse: false
 
 googleanalytics: "G-C4NCZ7X3VK"
 
@@ -28,8 +30,6 @@ menus:
       weight: 99
 
 pages:
-  default:        # 👈 new collection
-    path: /       # where the main list lives
-    pagination:
-      max: 10
-      path: page
+  default:
+    path: ""           # REQUIRED by Cecil
+    paginat

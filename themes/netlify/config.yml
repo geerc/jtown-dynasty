@@ -1,6 +1,5 @@
 pages:
   default:
-    path: /                # 👈 Required by Cecil
     redirects:
       path: _redirects
       output: netlify_redirects
