@@ -18,12 +18,15 @@ const post = powerRankings.find((p) => p.slug === slug);
 if (!post) {
   throw new Error(`No post found for slug: ${slug}`);
 }
+
+// Render Markdown to HTML
+const rendered = await post.render();
 ---
 
 <Layout title={post.data.title}>
   <article class="prose prose-invert">
     <h1>{post.data.title}</h1>
     <img src={post.data.image} alt={post.data.title} />
-    <div innerHTML={post.body}></div>
+    <div innerHTML={rendered.content}></div>
   </article>
 </Layout>
