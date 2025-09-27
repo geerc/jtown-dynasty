@@ -32,4 +32,6 @@ menus:
 pages:
   default:
     path: ""           # REQUIRED by Cecil
-    paginat
+    pagination:
+      max: 10
+      path: page
