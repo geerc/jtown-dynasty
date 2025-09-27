@@ -1,12 +1,13 @@
-defaultpages:
-  redirects:
-    path: _redirects
-    output: netlify_redirects
-    multilingual: false
-    serviceworker:
-      precache: false
-output:
-  formats:
-    - name: netlify_redirects
-      mediatype: text/plain
-      extension: ""
+pages:
+  default:
+    redirects:
+        path: _redirects
+        output: netlify_redirects
+        multilingual: false
+        serviceworker:
+          precache: false
+    output:
+      formats:
+        - name: netlify_redirects
+          mediatype: text/plain
+          extension: ""
