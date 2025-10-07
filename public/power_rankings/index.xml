@@ -10,10 +10,11 @@
     <atom:link href="http://localhost:1313/power_rankings/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Week 1 Power Rankings</title>
-      <link>http://localhost:1313/power_rankings/week1/</link>
+      <link>http://localhost:1313/power_rankings/2025_week1/</link>
       <pubDate>Sat, 27 Sep 2025 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/power_rankings/week1/</guid>
+      <guid>http://localhost:1313/power_rankings/2025_week1/</guid>
       <description>&lt;p&gt;Here is the content of the Week 1 power rankings. Discuss teams, stats, highlights, etc.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Image Test&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/5.jpg&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Team A looked great&amp;hellip;&lt;/li&gt;
 &lt;li&gt;Team B had injuries&amp;hellip;&lt;/li&gt;

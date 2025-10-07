@@ -6,19 +6,265 @@
     <description>Recent content on Jtown Dynasty</description>
     <generator>Hugo -- 0.150.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Sep 2025 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Week 1 Power Rankings</title>
-      <link>http://localhost:1313/power_rankings/week1/</link>
+      <title>Week 5 2025 Report</title>
+      <link>http://localhost:1313/power_rankings/2025week5/</link>
+      <pubDate>Tue, 07 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/power_rankings/2025week5/</guid>
+      <description>&lt;h1 id=&#34;power-rankings&#34;&gt;POWER RANKINGS&lt;/h1&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Team&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Power Score&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Weekly Change&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Performance Rank&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;KTC Value Rank&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;OC Gang&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;96&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Final Deztination&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;86&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Juggernaut Jaguars&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;67&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;&lt;!-- raw HTML omitted --&gt;⬆️ 1 &lt;!-- raw HTML omitted --&gt;&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Hurts Donit&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;67&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;&lt;!-- raw HTML omitted --&gt;⬇️ 1 &lt;!-- raw HTML omitted --&gt;&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Shippin Up To Austin&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;48&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;8&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Red Zone  Rockets&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;37&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;7&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Game of  Jones&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;16&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;&lt;!-- raw HTML omitted --&gt;⬆️ 1 &lt;!-- raw HTML omitted --&gt;&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;7&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;7&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;8&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Allen &amp;amp; Co.&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;14&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;&lt;!-- raw HTML omitted --&gt;⬇️ 1 &lt;!-- raw HTML omitted --&gt;&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;8&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Fantasy Football Showdown: Week Recap&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Week 4 2025 Report</title>
+      <link>http://localhost:1313/power_rankings/2025week4/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/power_rankings/2025week4/</guid>
+      <description>&lt;h1 id=&#34;power-rankings&#34;&gt;POWER RANKINGS&lt;/h1&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Team&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Power Score&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Weekly Change&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Performance Rank&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;KTC Value Rank&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;OC Gang&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;95&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;&lt;!-- raw HTML omitted --&gt;⬆️ 1 &lt;!-- raw HTML omitted --&gt;&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Final Deztination&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;83&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;&lt;!-- raw HTML omitted --&gt;⬆️ 1 &lt;!-- raw HTML omitted --&gt;&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Hurts Donit&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;78&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;&lt;!-- raw HTML omitted --&gt;⬆️ 1 &lt;!-- raw HTML omitted --&gt;&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Juggernaut Jaguars&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;75&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;&lt;!-- raw HTML omitted --&gt;⬇️ 3 &lt;!-- raw HTML omitted --&gt;&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Shippin Up To Austin&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;45&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;8&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Red Zone  Rockets&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;38&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;7&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Allen &amp;amp; Co.&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;21&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;7&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;8&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Game of  Jones&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;8&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;7&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Fantasy Football Weekly Recap: Thrilling Matchups and Surprising Performances&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Week 3 Power Rankings</title>
+      <link>http://localhost:1313/power_rankings/2025_week3/</link>
       <pubDate>Sat, 27 Sep 2025 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/power_rankings/week1/</guid>
-      <description>&lt;p&gt;Here is the content of the Week 1 power rankings. Discuss teams, stats, highlights, etc.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Image Test&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/5.jpg&#34;&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Team A looked great&amp;hellip;&lt;/li&gt;
-&lt;li&gt;Team B had injuries&amp;hellip;&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <guid>http://localhost:1313/power_rankings/2025_week3/</guid>
+      <description>&lt;h1 id=&#34;power-rankings&#34;&gt;POWER RANKINGS&lt;/h1&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Team&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Power Score&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Weekly Change&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Performance Rank&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;KTC Value Rank&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Final Deztination&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;98&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;OC Gang&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;95&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;&lt;!-- raw HTML omitted --&gt;⬆️ 1 &lt;!-- raw HTML omitted --&gt;&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Juggernaut Jaguars&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;93&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;&lt;!-- raw HTML omitted --&gt;⬆️ 1 &lt;!-- raw HTML omitted --&gt;&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Hurts Donit&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;89&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;&lt;!-- raw HTML omitted --&gt;⬇️ 2 &lt;!-- raw HTML omitted --&gt;&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Shippin Up To Austin&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;56&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;&lt;!-- raw HTML omitted --&gt;⬆️ 1 &lt;!-- raw HTML omitted --&gt;&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;8&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Red Zone  Rockets&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;49&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;&lt;!-- raw HTML omitted --&gt;⬇️ 1 &lt;!-- raw HTML omitted --&gt;&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;7&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Allen &amp;amp; Co.&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;29&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;&lt;!-- raw HTML omitted --&gt;⬆️ 1 &lt;!-- raw HTML omitted --&gt;&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;7&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;8&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Game of  Jones&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;17&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;&lt;!-- raw HTML omitted --&gt;⬇️ 1 &lt;!-- raw HTML omitted --&gt;&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;8&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;7&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Fantasy Football Showdown: Thrilling Victories and Stellar Performances&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
