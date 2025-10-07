@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Power_rankings on Jtown Dynasty</title>
+    <link>http://localhost:1313/power_rankings/</link>
+    <description>Recent content in Power_rankings on Jtown Dynasty</description>
+    <generator>Hugo -- 0.150.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Sep 2025 10:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/power_rankings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week 1 Power Rankings</title>
+      <link>http://localhost:1313/power_rankings/week1/</link>
+      <pubDate>Sat, 27 Sep 2025 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/power_rankings/week1/</guid>
+      <description>&lt;p&gt;Here is the content of the Week 1 power rankings. Discuss teams, stats, highlights, etc.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Team A looked great&amp;hellip;&lt;/li&gt;
+&lt;li&gt;Team B had injuries&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
