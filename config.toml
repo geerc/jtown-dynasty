@@ -2,12 +2,12 @@ baseURL = "https://jtown-dynasty.netlify.app/"  # update after Netlify gives you
 title = "Jtown Dynasty"
 languageCode = "en-us"
 theme = "papermod"
-paginate = 10
+paginations.papersize = 10
 enableRobotsTXT = true
 # If you use SCSS, make sure Hugo Extended is used (Netlify needs Extended)
 # PaperMod recommends placing your static files under /static and content in /content
 
-[author]
+[params.author]
   name = "Christian Geer"
 
 [params]
