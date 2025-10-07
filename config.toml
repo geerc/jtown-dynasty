@@ -1,0 +1,21 @@
+baseURL = "https://jtown-dynasty.netlify.app/"  # update after Netlify gives you URL
+title = "Jtown Dynasty"
+languageCode = "en-us"
+theme = "papermod"
+paginate = 10
+enableRobotsTXT = true
+# If you use SCSS, make sure Hugo Extended is used (Netlify needs Extended)
+# PaperMod recommends placing your static files under /static and content in /content
+
+[author]
+  name = "Christian Geer"
+
+[params]
+  # PaperMod parameters (feel free to tweak)
+  subtitle = "Power Rankings & Fantasy Football"
+  showReadingTime = true
+  dateForm = "Jan 2, 2006"
+  # theme-color, social links, analytics etc.:
+  github = "geerc"
+  # enable RSS
+  rss = true
