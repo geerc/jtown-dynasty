@@ -1,0 +1,12 @@
+hyde:
+  sidebar:
+    sticky: true
+  theme: '' # red, orange, yellow, green, cyan, blue, magenta, brown or cecil
+  reverse: false
+
+pages:
+  default:
+    path: ""       # <- REQUIRED
+    pagination:
+      max: 5
+      path: 'page'

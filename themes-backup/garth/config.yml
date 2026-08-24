@@ -1,0 +1,13 @@
+logo: logo.svg
+taxonomies:
+  tags: tag
+
+pages:
+  default:
+    path: ""       # <- REQUIRED
+    pagination:
+      max: 2
+
+static:
+  exclude:
+    - '*.scss'

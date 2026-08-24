@@ -1,0 +1,35 @@
+title: Jtown Dynasty
+baseline: Jenkintown's Finest
+description: THE fantasy football league of Jenkintown
+baseurl: https://jtowndynasty.netlify.app
+canonicalurl: true
+keywords: [Cecil, Static Site Generator, SSG]
+author: Christian Geer
+date:
+  format: F j, Y
+  timezone: America/New_York
+theme:
+  - hyde
+  - netlify
+  - netlify-cms
+hyde:
+  sidebar:
+    sticky: true
+  theme: 'cecil'
+  reverse: false
+
+googleanalytics: "G-C4NCZ7X3VK"
+
+menus:
+  footer:
+    - id: author
+      name: "The author"
+      url: https://arnaudligny.fr
+      weight: 99
+
+pages:
+  default:
+    path: ""       # <- REQUIRED
+    pagination:
+      max: 10
+      path: page
