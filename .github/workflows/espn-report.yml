@@ -1,0 +1,124 @@
+name: ESPN report draft
+on:
+  workflow_dispatch:
+    inputs:
+      year:
+        description: Season (blank uses current year)
+        required: false
+      week:
+        description: Completed week (blank detects automatically)
+        required: false
+      overwrite:
+        description: Correct existing week using saved KTC values
+        type: boolean
+        default: false
+      ai_recap:
+        description: Include AI recap (requires OPENAI_API_KEY)
+        type: boolean
+        default: false
+  schedule:
+    - cron: "45 14 * 9-12 2"
+permissions:
+  contents: write
+  pull-requests: write
+concurrency:
+  group: espn-report-draft
+  cancel-in-progress: false
+jobs:
+  draft:
+    if: ${{ github.event_name == 'workflow_dispatch' || vars.ENABLE_ESPN_SCHEDULE == 'true' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: main
+          path: site
+          submodules: recursive
+      - uses: actions/checkout@v6
+        with:
+          repository: geerc/fantasy-football-reports
+          ref: master
+          path: engine
+          persist-credentials: false
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Install current engine and run tests
+        working-directory: engine
+        run: |
+          pip install '.[espn,dev]'
+          python -m pytest -q tests
+          echo "Engine revision: $(git rev-parse HEAD)" >> "$GITHUB_STEP_SUMMARY"
+      - name: Generate report with preserved KTC values
+        env:
+          REPORT_YEAR: ${{ inputs.year }}
+          REPORT_WEEK: ${{ inputs.week }}
+          OVERWRITE: ${{ inputs.overwrite }}
+          AI_RECAP: ${{ inputs.ai_recap }}
+          league_id: '916709'
+          espn_s2: ${{ secrets.ESPN_S2 }}
+          swid: ${{ secrets.ESPN_SWID }}
+          OPEN_AI_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          if [ -z "$espn_s2" ] || [ -z "$swid" ]; then
+            echo '::error::Configure ESPN_S2 and ESPN_SWID repository secrets before running.'
+            exit 1
+          fi
+          year="${REPORT_YEAR:-$(date -u +%Y)}"
+          if [[ ! "$year" =~ ^[0-9]{4}$ ]]; then echo 'Invalid season'; exit 1; fi
+          export REPORT_ROOT="$GITHUB_WORKSPACE/site/content/power_rankings"
+          export PLAYER_VALUES_DIR="$GITHUB_WORKSPACE/site/report-data/ktc/$year"
+          args=(--year "$year")
+          if [ -n "$REPORT_WEEK" ]; then args+=(--week "$REPORT_WEEK"); fi
+          if [ "$GITHUB_EVENT_NAME" = workflow_dispatch ] && [ "$OVERWRITE" = true ]; then args+=(--overwrite); fi
+          if [ "$AI_RECAP" != true ]; then args+=(--skip-ai); fi
+          python engine/weekly_espn.py "${args[@]}"
+      - name: Detect report changes
+        id: changes
+        working-directory: site
+        run: |
+          git add content/power_rankings
+          if [ -d report-data ]; then git add report-data; fi
+          if git diff --cached --quiet; then
+            echo 'changed=false' >> "$GITHUB_OUTPUT"
+            echo 'No new report: preview contains existing site content.' >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo 'changed=true' >> "$GITHUB_OUTPUT"
+          fi
+      - name: Build Hugo preview
+        run: |
+          mkdir -p "$RUNNER_TEMP/hugo"
+          curl -fsSL https://github.com/gohugoio/hugo/releases/download/v0.151.0/hugo_extended_0.151.0_linux-amd64.tar.gz -o "$RUNNER_TEMP/hugo/hugo.tar.gz"
+          tar -xzf "$RUNNER_TEMP/hugo/hugo.tar.gz" -C "$RUNNER_TEMP/hugo"
+          "$RUNNER_TEMP/hugo/hugo" --source site --destination "$RUNNER_TEMP/espn-preview" --baseURL / --minify
+      - uses: actions/upload-artifact@v6
+        with:
+          name: espn-report-review
+          path: |
+            ${{ runner.temp }}/espn-preview
+            site/content/power_rankings
+            site/report-data
+      - name: Create Netlify draft (never production)
+        working-directory: site
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+        run: |
+          if [ -z "$NETLIFY_AUTH_TOKEN" ] || [ -z "$NETLIFY_SITE_ID" ]; then
+            echo '::warning::Netlify credentials missing; use the artifact for review.'
+          else
+            npx --yes netlify-cli deploy --no-build --dir="$RUNNER_TEMP/espn-preview"
+          fi
+      - name: Save report and KTC snapshot for review
+        if: steps.changes.outputs.changed == 'true'
+        working-directory: site
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          branch="reports/espn-${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}"
+          git switch -c "$branch"
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Prepare ESPN report and KTC snapshot for review'
+          git push origin "$branch"
+          gh pr create --base main --head "$branch" --title 'Review ESPN weekly report' --body 'Review the draft in Netlify or download the Actions artifact. Merge to publish the article and preserve its KTC inputs. The workflow never publishes to production.'
