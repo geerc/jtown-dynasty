@@ -11,6 +11,7 @@ enableRobotsTXT = true
   name = "Christian Geer"
 
 [params]
+  mainSections = ["power_rankings"]
   # PaperMod parameters (feel free to tweak)
   subtitle = "Power Rankings & Fantasy Football"
   showReadingTime = true
@@ -19,3 +20,18 @@ enableRobotsTXT = true
   github = "geerc"
   # enable RSS
   rss = true
+
+[[menu.main]]
+  name = "Reports"
+  url = "/power_rankings/"
+  weight = 10
+
+[[menu.main]]
+  name = "Archive"
+  url = "/archive/"
+  weight = 20
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 30

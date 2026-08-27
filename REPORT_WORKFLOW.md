@@ -6,7 +6,7 @@ The **ESPN report draft** action checks out the latest shared engine `master`, i
 
 1. Add Actions repository secrets `ESPN_S2`, `ESPN_SWID`, `NETLIFY_AUTH_TOKEN`, and **JTown's** `NETLIFY_SITE_ID` (not SYPIP's). Optionally add `OPENAI_API_KEY`. Never commit credentials. Latest shared-engine code runs with these secrets only in the relevant steps.
 2. Enable GitHub Actions permission to create pull requests.
-3. Run Actions → ESPN report draft → Run workflow manually. Leave week blank for detection. In preseason, the preview contains existing website content and no report PR is created. AI defaults off; a manual run can enable it.
+3. Run Actions → ESPN report draft → Run workflow manually. Leave week blank for detection. In preseason, the preview contains existing website content and no report PR is created. JTown AI recaps default on for manual and scheduled runs and require `OPENAI_API_KEY`; uncheck the manual input to skip AI. SYPIP settings are separate and unchanged.
 4. Verify the Netlify draft. Test a completed-week report and its review PR when data is available.
 5. Disable the Pi cron only after hosted validation succeeds. Then set repository **variable** `ENABLE_ESPN_SCHEDULE` to `true`.
 

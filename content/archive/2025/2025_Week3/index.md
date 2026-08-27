@@ -1,4 +1,5 @@
 +++
+url = "/power_rankings/2025_week3/"
 title = "Week 3 Power Rankings"
 date = 2025-09-27T10:00:00Z
 draft = false

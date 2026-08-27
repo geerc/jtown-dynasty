@@ -15,7 +15,7 @@ on:
       ai_recap:
         description: Include AI recap (requires OPENAI_API_KEY)
         type: boolean
-        default: false
+        default: true
   schedule:
     - cron: "45 14 * 9-12 2"
 permissions:
@@ -54,7 +54,7 @@ jobs:
           REPORT_YEAR: ${{ inputs.year }}
           REPORT_WEEK: ${{ inputs.week }}
           OVERWRITE: ${{ inputs.overwrite }}
-          AI_RECAP: ${{ inputs.ai_recap }}
+          AI_RECAP: ${{ github.event_name == 'schedule' || inputs.ai_recap }}
           league_id: '916709'
           espn_s2: ${{ secrets.ESPN_S2 }}
           swid: ${{ secrets.ESPN_SWID }}

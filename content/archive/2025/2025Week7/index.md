@@ -1,4 +1,5 @@
 +++
+url = "/power_rankings/2025week7/"
 title = "Week 7 2025 Report"
 date = 2025-10-21
 cover = { image = "week7_image.jpeg" }
