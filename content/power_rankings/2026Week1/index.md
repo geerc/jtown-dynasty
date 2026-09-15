@@ -3,12 +3,14 @@ title = "Week 1 2026 Report"
 cover = { image = "ezgif-4eb66f0fbdc1d374.jpg" }
 date = "2026-09-15"
 draft = false
+hideSummary = true
+hideMeta = true
 +++
 
 # POWER RANKINGS
 
 |    | Team                 |   Power Score |   Performance Rank |   KTC Value Rank |
-|---:|:---------------------|--------------:|-------------------:|-----------------:|
+|---:|:---------------------|--------------:|:------------------:|:----------------:|
 |  1 | Comeback Cardinals   |            84 |                  1 |                4 |
 |  2 | Game of  Jones       |            64 |                  2 |                5 |
 |  3 | Final Deztination    |            62 |                  5 |                1 |
@@ -33,7 +35,7 @@ Overall, this week highlighted the unpredictability of fantasy football, with se
 ## Projected Standings (as of week 1)
 
 |    | Team                 |   Projected Wins |   Projected Losses |
-|---:|:---------------------|-----------------:|-------------------:|
+|---:|:---------------------|:----------------:|:------------------:|
 |  1 | Comeback Cardinals   |            10.68 |               4.32 |
 |  2 | Game of  Jones       |             9.56 |               5.44 |
 |  3 | Final Deztination    |             8.62 |               6.38 |
@@ -46,7 +48,7 @@ Overall, this week highlighted the unpredictability of fantasy football, with se
 ## LUCK INDEX
 
 |    | Team                 |   Luck Index |
-|---:|:---------------------|-------------:|
+|---:|:---------------------|:------------:|
 |  1 | Allen & Co.          |         0.43 |
 |  2 | Shippin Up To Austin |         0.31 |
 |  3 | Game of  Jones       |         0.25 |
