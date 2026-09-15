@@ -1,6 +1,6 @@
 +++
 title = "Week 1 2026 Report"
-cover = { image = "ezgif-4eb66f0fbdc1d374.jpeg" }
+cover = { image = "ezgif-4eb66f0fbdc1d374.jpg" }
 date = "2026-09-15"
 draft = false
 +++
