@@ -1,5 +1,6 @@
 +++
 title = "Week 3 2026 Report"
+cover = { image = "week3.jpg" }
 date = "2026-09-29"
 draft = false
 hideSummary = true
