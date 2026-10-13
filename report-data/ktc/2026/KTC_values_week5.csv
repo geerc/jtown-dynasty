@@ -1,0 +1,590 @@
+Player Name,Pos,Value,NFL_Team
+Bijan Robinson,RB1,9999.0,ATL
+Jahmyr Gibbs,RB2,9999.0,DET
+Jaxon Smith-Njigba,WR1,9939.0,SEA
+Josh Allen,QB1,9295.0,BUF
+Kenneth Walker III,RB3,8969.0,KCC
+Puka Nacua,WR2,8731.0,LAR
+Ja'Marr Chase,WR3,8647.0,CIN
+Amon-Ra St. Brown,WR4,8356.0,DET
+Trey McBride,TE1,8355.0,ARI
+CeeDee Lamb,WR5,8275.0,DAL
+Jonathan Taylor,RB4,8127.0,IND
+Derrick Henry,RB5,8066.0,BAL
+Brock Bowers,TE2,7994.0,LVR
+Drake London,WR6,7917.0,ATL
+Christian McCaffrey,RB6,7915.0,SFO
+Chris Olave,WR7,7909.0,NOS
+Justin Jefferson,WR8,7816.0,MIN
+James Cook,RB7,7774.0,BUF
+Zay Flowers,WR9,7639.0,BAL
+Tetairoa McMillan,WR10,7612.0,CAR
+Kyren Williams,RB8,7526.0,LAR
+Chase Brown,RB9,7497.0,CIN
+Nico Collins,WR11,7385.0,HOU
+Javonte Williams,RB10,7340.0,DAL
+Parker Washington,WR12,7332.0,JAC
+Lamar Jackson,QB2,7316.0,BAL
+Jeremiyah Love,RB11,7315.0,ARI
+Malik Nabers,WR13,7261.0,NYG
+Ashton Jeanty,RB12,7205.0,LVR
+Patrick Mahomes,QB3,7034.0,KCC
+Christian Watson,WR14,7010.0,GBP
+Garrett Wilson,WR15,6978.0,NYJ
+DeVonta Smith,WR16,6960.0,PHI
+Trevor Lawrence,QB4,6939.0,JAC
+Bucky Irving,RB13,6921.0,TBB
+George Pickens,WR17,6884.0,DAL
+Caleb Williams,QB5,6866.0,CHI
+Breece Hall,RB14,6831.0,NYJ
+Tee Higgins,WR18,6807.0,CIN
+Matthew Golden,WR19,6772.0,GBP
+A.J. Brown,WR20,6681.0,NEP
+Rashee Rice,WR21,6661.0,KCC
+Davante Adams,WR22,6639.0,LAR
+Chuba Hubbard,RB15,6639.0,CAR
+D'Andre Swift,RB16,6637.0,CHI
+Michael Wilson,WR23,6634.0,ARI
+Joe Burrow,QB6,6611.0,CIN
+Brock Purdy,QB7,6610.0,SFO
+Bhayshul Tuten,RB17,6604.0,JAC
+Tyler Warren,TE3,6556.0,IND
+George Kittle,TE4,6520.0,SFO
+Quinshon Judkins,RB18,6444.0,CLE
+Saquon Barkley,RB19,6407.0,PHI
+Emeka Egbuka,WR25,6291.0,TBB
+Tucker Kraft,TE5,6264.0,GBP
+Luther Burden,WR26,6260.0,CHI
+Jaylen Waddle,WR27,6233.0,DEN
+Jaylen Warren,RB20,6194.0,PIT
+Omarion Hampton,RB21,6173.0,LAC
+Cam Skattebo,RB22,6136.0,NYG
+Sam LaPorta,TE6,6026.0,DET
+Ladd McConkey,WR28,6025.0,LAC
+Jalen Hurts,QB8,5971.0,PHI
+Isaiah Likely,TE7,5926.0,NYG
+Drake Maye,QB9,5883.0,NEP
+Mike Evans,WR29,5872.0,SFO
+D.J. Moore,WR30,5858.0,BUF
+TreVeyon Henderson,RB23,5854.0,NEP
+Dak Prescott,QB10,5840.0,DAL
+Denzel Boston,WR31,5777.0,CLE
+Jared Goff,QB11,5741.0,DET
+Bryce Young,QB12,5721.0,CAR
+Jameson Williams,WR32,5648.0,DET
+Colston Loveland,TE8,5632.0,CHI
+Harold Fannin,TE9,5624.0,CLE
+Dalton Kincaid,TE10,5588.0,BUF
+Matthew Stafford,QB13,5530.0,LAR
+Josh Downs,WR33,5511.0,IND
+Carnell Tate,WR34,5491.0,TEN
+Rome Odunze,WR35,5485.0,CHI
+Terry McLaurin,WR36,5469.0,WAS
+Jayden Daniels,QB14,5444.0,WAS
+Rhamondre Stevenson,RB24,5404.0,NEP
+David Montgomery,RB25,5378.0,HOU
+Kyle Monangai,RB26,5356.0,CHI
+Blake Corum,RB27,5338.0,LAR
+Jordyn Tyson,WR37,5326.0,NOS
+Bo Nix,QB15,5297.0,DEN
+Jadarian Price,RB28,5291.0,SEA
+Sam Darnold,QB16,5287.0,SEA
+Travis Etienne,RB29,5263.0,NOS
+Stefon Diggs,WR38,5258.0,WAS
+De'Von Achane,RB30,5248.0,MIA
+Jordan Love,QB17,5242.0,GBP
+Jordan Addison,WR39,5232.0,MIN
+Seattle Seahawks,DST1,5126.0,SEA
+Justin Herbert,QB18,5125.0,LAC
+KC Concepcion,WR40,5104.0,CLE
+RJ Harvey,RB31,5027.0,DEN
+Deebo Samuel,WR41,5010.0,SFO
+Jacory Croskey-Merritt,RB32,4963.0,WAS
+Wan'Dale Robinson,WR42,4956.0,TEN
+Jaxson Dart,QB19,4952.0,NYG
+Zach Charbonnet,RB33,4947.0,SEA
+Romeo Doubs,WR43,4883.0,NEP
+Jake Ferguson,TE11,4882.0,DAL
+DK Metcalf,WR44,4877.0,PIT
+Dallas Goedert,TE12,4854.0,PHI
+Juwan Johnson,TE13,4818.0,NOS
+C.J. Stroud,QB20,4791.0,HOU
+Kenyon Sadiq,TE14,4789.0,NYJ
+Makai Lemon,WR45,4786.0,PHI
+Alec Pierce,WR46,4761.0,IND
+Marvin Harrison Jr.,WR47,4759.0,ARI
+Jakobi Meyers,WR48,4745.0,JAC
+Aaron Jones,RB34,4721.0,MIN
+Jordan Mason,RB35,4713.0,MIN
+Brian Thomas Jr.,WR49,4704.0,JAC
+Brandon Aubrey,PK1,4699.0,DAL
+Baker Mayfield,QB21,4694.0,TBB
+Josh Jacobs,RB36,4681.0,GBP
+Travis Kelce,TE15,4677.0,KCC
+Khalil Shakir,WR50,4676.0,BUF
+Houston Texans,DST2,4637.0,HOU
+Brenton Strange,TE16,4631.0,JAC
+Michael Pittman,WR51,4617.0,PIT
+J.K. Dobbins,RB37,4603.0,DEN
+Jonah Coleman,RB38,4562.0,DEN
+Denver Broncos,DST3,4535.0,DEN
+Xavier Worthy,WR52,4525.0,KCC
+Los Angeles Rams,DST4,4515.0,LAR
+Courtland Sutton,WR53,4509.0,DEN
+Tony Pollard,RB39,4484.0,TEN
+Brian Robinson,RB41,4471.0,ATL
+Kyle Pitts,TE17,4447.0,ATL
+Keon Coleman,WR54,4401.0,BUF
+Quentin Johnston,WR55,4375.0,LAC
+T.J. Hockenson,TE18,4362.0,MIN
+Tyler Allgeier,RB42,4345.0,ARI
+Braelon Allen,RB43,4332.0,NYJ
+Cam Ward,QB22,4325.0,TEN
+Mark Andrews,TE19,4318.0,BAL
+Jonathon Brooks,RB44,4309.0,CAR
+Dalton Schultz,TE20,4249.0,HOU
+Chris Godwin,WR56,4243.0,TBB
+Rachaad White,RB45,4240.0,WAS
+Jayden Reed,WR57,4215.0,GBP
+Adonai Mitchell,WR58,4208.0,NYJ
+Fernando Mendoza,QB23,4201.0,LVR
+Kenneth Gainwell,RB46,4195.0,TBB
+Malachi Fields,WR59,4147.0,NYG
+Ja'Kobi Lane,WR60,4128.0,BAL
+Rashid Shaheed,WR61,4101.0,SEA
+Antonio Williams,WR62,4099.0,WAS
+Chris Bell,WR63,4076.0,MIA
+Pat Freiermuth,TE21,4067.0,PIT
+Rashod Bateman,WR64,4064.0,BAL
+Kyler Murray,QB24,4046.0,MIN
+Mike Washington Jr.,RB47,4028.0,LVR
+Daniel Jones,QB25,4021.0,IND
+Terrance Ferguson,TE22,3998.0,LAR
+MarShawn Lloyd,RB48,3997.0,GBP
+Ollie Gordon II,RB49,3968.0,MIA
+Oronde Gadsden,TE23,3905.0,LAC
+Hunter Henry,TE24,3888.0,NEP
+Jalen McMillan,WR65,3882.0,TBB
+Tre Harris,WR66,3870.0,LAC
+Emmett Johnson,RB50,3859.0,KCC
+Tank Bigsby,RB51,3837.0,PHI
+Michael Penix Jr.,QB26,3813.0,ATL
+Michael Mayer,TE25,3798.0,LVR
+Omar Cooper Jr.,WR67,3778.0,NYJ
+Jayden Higgins,WR68,3722.0,HOU
+Chigoziem Okonkwo,TE26,3708.0,WAS
+Kayshon Boutte,WR69,3699.0,HOU
+Chris Rodriguez,RB52,3696.0,JAC
+Keenan Allen,WR70,3663.0,IND
+Jaylin Noel,WR71,3662.0,HOU
+Zachariah Branch,WR72,3628.0,ATL
+Tyjae Spears,RB53,3628.0,TEN
+Germie Bernard,WR73,3599.0,PIT
+Alvin Kamara,RB54,3557.0,NOS
+Nicholas Singleton,RB55,3540.0,TEN
+San Francisco 49ers,DST5,3500.0,SFO
+Dylan Sampson,RB56,3443.0,CLE
+Cade Otton,TE27,3423.0,TBB
+Ricky Pearsall,WR74,3398.0,SFO
+Tory Horton,WR75,3375.0,SEA
+Troy Franklin,WR76,3363.0,DEN
+Elic Ayomanor,WR77,3353.0,TEN
+Minnesota Vikings,DST6,3348.0,MIN
+Kaleb Johnson,RB57,3341.0,GBP
+Ted Hurst,WR79,3339.0,TBB
+Jauan Jennings,WR80,3335.0,MIN
+Baltimore Ravens,DST7,3291.0,BAL
+Tank Dell,WR82,3219.0,HOU
+Mason Taylor,TE28,3210.0,NYJ
+Philadelphia Eagles,DST8,3206.0,PHI
+Jaylen Wright,RB58,3188.0,MIA
+Evan McPherson,PK2,3187.0,CIN
+Cameron Dicker,PK3,3139.0,LAC
+Sean Tucker,RB59,3120.0,TBB
+Roman Wilson,WR83,3119.0,PIT
+David Njoku,TE29,3096.0,LAC
+Tyrone Tracy,RB60,3074.0,NYG
+Kendre Miller,RB61,3072.0,NOS
+Kaytron Allen,RB62,3037.0,MIA
+Cole Kmet,TE30,3036.0,CHI
+Travis Hunter,WR84,3011.0,JAC
+Cooper Kupp,WR85,3002.0,SEA
+Ray Davis,RB63,2994.0,BUF
+Jerry Jeudy,WR86,2980.0,CLE
+Evan Engram,TE31,2965.0,DEN
+Trevor Etienne,RB64,2964.0,CAR
+Aaron Rodgers,QB27,2924.0,PIT
+Tez Johnson,WR87,2852.0,TBB
+Kansas City Chiefs,DST9,2846.0,KCC
+Isiah Pacheco,RB65,2841.0,DET
+Darnell Mooney,WR88,2835.0,NYG
+Elijah Sarratt,WR90,2831.0,BAL
+Marvin Mims,WR89,2831.0,DEN
+Elijah Arroyo,TE32,2814.0,SEA
+Christian Kirk,WR91,2808.0,SFO
+New England Patriots,DST10,2793.0,NEP
+Jalen Royals,WR92,2781.0,KCC
+Mike Gesicki,TE33,2760.0,CIN
+Ty Simpson,QB28,2755.0,LAR
+Jalen Tolbert,WR93,2748.0,MIA
+Chris Boswell,PK4,2738.0,PIT
+Demond Claiborne,RB66,2727.0,MIN
+Dawson Knox,TE34,2718.0,BUF
+Trey Benson,RB67,2712.0,ARI
+Pittsburgh Steelers,DST11,2659.0,PIT
+Joshua Palmer,WR94,2639.0,BUF
+Ja'Tavion Sanders,TE35,2619.0,CAR
+Jonnu Smith,TE36,2611.0,GBP
+Eli Stowers,TE37,2609.0,PHI
+J.J. McCarthy,QB30,2576.0,NYG
+Roschon Johnson,RB68,2544.0,CHI
+Buffalo Bills,DST12,2520.0,BUF
+James Conner,RB70,2508.0,ARI
+Isaiah Bond,WR95,2482.0,CLE
+Kevin Coleman,WR96,2480.0,MIA
+Skyler Bell,WR97,2469.0,BUF
+Xavier Hutchinson,WR98,2453.0,HOU
+Noah Gray,TE38,2442.0,KCC
+Max Klare,TE39,2413.0,LAR
+Tua Tagovailoa,QB31,2411.0,ATL
+Tyquan Thornton,WR99,2366.0,KCC
+Detroit Lions,DST13,2364.0,DET
+Jerome Ford,RB72,2345.0,MIN
+Calvin Ridley,WR100,2321.0,TEN
+Will Shipley,RB73,2307.0,PHI
+Green Bay Packers,DST14,2295.0,GBP
+Calvin Austin III,WR101,2295.0,NYG
+Jahan Dotson,WR102,2265.0,ATL
+Darren Waller,TE40,2217.0,CAR
+Shedeur Sanders,QB32,2215.0,CLE
+Kendrick Bourne,WR103,2189.0,ARI
+Chris Brazzell II,WR104,2132.0,CAR
+Harrison Butker,PK5,2116.0,KCC
+Cleveland Browns,DST15,2107.0,CLE
+Jake Elliott,PK6,2097.0,PHI
+Xavier Legette,WR105,2096.0,CAR
+Najee Harris,RB74,2092.0,NYG
+Tutu Atwell,WR106,2092.0,LAR
+Marquise Brown,WR107,2022.0,PHI
+Seth McGowan,RB75,2004.0,IND
+Jordan James,RB76,2002.0,SFO
+Darius Slayton,WR108,1967.0,IND
+Luke Musgrave,TE41,1948.0,GBP
+Devin Neal,RB77,1932.0,MIN
+Tyler Higbee,TE42,1929.0,LAR
+Tampa Bay Buccaneers,DST16,1929.0,TBB
+Los Angeles Chargers,DST17,1928.0,LAC
+Noah Fant,TE43,1927.0,NOS
+Barion Brown,WR109,1915.0,NOS
+Justin Fields,QB33,1889.0,KCC
+Cedric Tillman,WR110,1875.0,NOS
+Jacksonville Jaguars,DST18,1806.0,JAC
+Devin Singletary,RB78,1793.0,NYG
+CJ Daniels,WR111,1764.0,LAR
+Zach Ertz,TE44,1758.0,PHI
+Dameon Pierce,RB79,1711.0,PHI
+Chicago Bears,DST19,1681.0,CHI
+Tyler Bass,PK7,1679.0,BUF
+Jalen Milroe,QB34,1641.0,SEA
+Jack Endries,TE45,1621.0,CIN
+Tyreek Hill,WR112,1616.0,FA
+Josh Reynolds,WR113,1601.0,NYJ
+Spencer Rattler,QB35,1594.0,NOS
+Michael Trigg,TE46,1594.0,DAL
+Anthony Richardson,QB36,1591.0,IND
+Luke McCaffrey,WR116,1590.0,WAS
+Brandon Aiyuk,WR117,1588.0,SFO
+John Metchie,WR118,1587.0,CAR
+Deion Burks,WR120,1578.0,IND
+Garrett Nussmeier,QB37,1560.0,KCC
+Indianapolis Colts,DST20,1557.0,IND
+Miles Sanders,RB84,1545.0,FA
+Elijah Moore,WR123,1543.0,PHI
+Le'Veon Moss,RB85,1543.0,MIA
+Dyami Brown,WR124,1540.0,WAS
+Curtis Samuel,WR125,1529.0,FA
+Kareem Hunt,RB86,1507.0,FA
+Jermaine Burton,WR126,1489.0,FA
+Joe Mixon,RB88,1483.0,FA
+Adam Thielen,WR128,1466.0,FA
+Tyler Lockett,WR129,1439.0,FA
+Jason Myers,PK9,1415.0,SEA
+DeAndre Hopkins,WR131,1405.0,FA
+Jake Moody,PK10,1396.0,BAL
+Nick Chubb,RB89,1390.0,FA
+New York Giants,DST21,1380.0,NYG
+Austin Ekeler,RB90,1288.0,WAS
+Xavier Restrepo,WR135,1266.0,TEN
+Carson Wentz,QB39,1253.0,MIN
+Zay Jones,WR137,1216.0,FA
+Brandin Cooks,WR138,1211.0,SFO
+Elijah Mitchell,RB94,1178.0,FA
+Dillon Gabriel,QB42,1177.0,CLE
+Taysom Hill,TE54,1141.0,FA
+Russell Wilson,QB47,1138.0,FA
+Will Howard,QB48,1135.0,PIT
+Damien Martinez,RB115,1118.0,FA
+Jake Bates,PK12,1116.0,DET
+Jason Sanders,PK13,1113.0,NYJ
+Ty Chandler,RB124,1102.0,NOS
+Kirk Cousins,QB58,1081.0,LVR
+Matt Gay,PK15,1078.0,LVR
+Daniel Carlson,PK16,1074.0,NOS
+Tyler Shough,QB61,1039.0,NOS
+Wil Lutz,PK18,1031.0,DEN
+Washington Commanders,DST22,1017.0,WAS
+Jameis Winston,QB62,996.0,NYG
+Joey Slye,PK20,987.0,TEN
+New York Jets,DST23,972.0,NYJ
+Ka'imi Fairbairn,PK21,959.0,HOU
+Raheem Mostert,RB154,943.0,FA
+Cairo Santos,PK24,799.0,CHI
+Chase McLaughlin,PK27,753.0,TBB
+Will Reichard,PK28,750.0,MIN
+Tyler Loop,PK30,714.0,BAL
+Cam Little,PK31,700.0,JAC
+Spencer Shrader,PK34,604.0,IND
+Arizona Cardinals,DST24,592.0,ARI
+Carolina Panthers,DST25,546.0,CAR
+Atlanta Falcons,DST26,471.0,ATL
+Chad Ryland,PK38,439.0,ARI
+Harrison Mevis,PK41,405.0,LAR
+Dallas Cowboys,DST27,343.0,DAL
+Cincinnati Bengals,DST28,289.0,CIN
+Riley Patterson,PK50,240.0,MIA
+Las Vegas Raiders,DST29,225.0,LVR
+Nick Folk,PK53,210.0,ATL
+Andres Borregales,PK57,171.0,NEP
+Blake Grupe,PK60,153.0,NYJ
+New Orleans Saints,DST30,129.0,NOS
+Ryan Fitzgerald,PK62,129.0,CAR
+Tennessee Titans,DST31,128.0,TEN
+Eddy Pineiro,PK66,119.0,SFO
+Dominic Zvada,PK71,107.0,NYG
+Kansei Matsuzawa,PK73,102.0,LVR
+Matthew Wright,PK77,83.0,BUF
+Drew Stevens,PK79,75.0,WAS
+Andre Szmyt,PK80,72.0,CLE
+Miami Dolphins,DST32,0.0,MIA
+Jude McAtamney,PK109,0.0,NYG
+Lenny Krieg,PK110,0.0,GBP
+Maddux Trujillo,PK111,0.0,BUF
+Charlie Smyth,PK112,0.0,NOS
+Trey Smack,PK113,0.0,GBP
+2027 Early 1st,PICK,5703.0,FA
+2027 Mid 1st,PICK,4897.0,FA
+2028 Early 1st,PICK,4783.0,FA
+2027 Late 1st,PICK,4521.0,FA
+2028 Mid 1st,PICK,4234.0,FA
+2029 Early 1st,PICK,4183.0,FA
+Jalen Coker,WR28,4177.0,CAR
+2028 Late 1st,PICK,3878.0,FA
+2029 Mid 1st,PICK,3794.0,FA
+2027 Early 2nd,PICK,3648.0,FA
+2029 Late 1st,PICK,3558.0,FA
+De'Zhaun Stribling,WR40,3381.0,SFO
+2027 Mid 2nd,PICK,3375.0,FA
+2028 Early 2nd,PICK,3287.0,FA
+2027 Late 2nd,PICK,3159.0,FA
+Caleb Douglas,WR49,3084.0,MIA
+2028 Mid 2nd,PICK,3068.0,FA
+Kaelon Black,RB38,3055.0,SFO
+2029 Early 2nd,PICK,2969.0,FA
+Woody Marks,RB41,2937.0,HOU
+Dontayvion Wicks,WR58,2854.0,PHI
+Pat Bryant,WR59,2832.0,DEN
+2028 Late 2nd,PICK,2817.0,FA
+Devaughn Vele,WR61,2778.0,NOS
+Keaton Mitchell,RB43,2754.0,LAC
+2029 Mid 2nd,PICK,2743.0,FA
+Malik Washington,WR63,2741.0,MIA
+Tre Tucker,WR69,2668.0,LVR
+Rico Dowdle,RB50,2583.0,PIT
+Malik Willis,QB27,2570.0,MIA
+2027 Early 3rd,PICK,2503.0,FA
+2029 Late 2nd,PICK,2474.0,FA
+AJ Barner,TE24,2468.0,SEA
+Eli Raridon,TE25,2466.0,NEP
+Emanuel Wilson,RB54,2443.0,SEA
+2027 Mid 3rd,PICK,2388.0,FA
+Cyrus Allen,WR80,2378.0,KCC
+Isaac TeSlaa,WR81,2367.0,DET
+2028 Early 3rd,PICK,2301.0,FA
+2027 Late 3rd,PICK,2294.0,FA
+2028 Mid 3rd,PICK,2192.0,FA
+Jack Bech,WR89,2169.0,LVR
+Kimani Vidal,RB65,2135.0,LAC
+Ryan Flournoy,WR92,2134.0,DAL
+Darnell Washington,TE29,2122.0,PIT
+Dohnte Meyers,WR94,2080.0,CIN
+Kyle Williams,WR95,2065.0,NEP
+Gunnar Helm,TE32,2059.0,TEN
+Demario Douglas,WR96,2054.0,NEP
+2028 Late 3rd,PICK,2030.0,FA
+2029 Early 3rd,PICK,1987.0,FA
+Bryce Lance,WR101,1968.0,NOS
+2029 Mid 3rd,PICK,1943.0,FA
+Raheim Sanders,RB69,1943.0,CLE
+Oscar Delp,TE37,1907.0,NOS
+Zavion Thomas,WR103,1901.0,CHI
+Jalen Nailor,WR104,1900.0,LVR
+Jaylin Lane,WR106,1887.0,WAS
+Colby Parkinson,TE39,1882.0,LAR
+Chimere Dike,WR107,1878.0,TEN
+Adam Randall,RB72,1877.0,BAL
+Isaiah Davis,RB73,1873.0,NYJ
+George Holani,RB74,1868.0,SEA
+2027 Early 4th,PICK,1839.0,FA
+2029 Late 3rd,PICK,1828.0,FA
+Jalon Daniels,QB30,1819.0,TBB
+Jacoby Brissett,QB31,1818.0,ARI
+Greg Dulcich,TE41,1795.0,MIA
+Darius Cooper,WR110,1794.0,PHI
+Theo Johnson,TE42,1782.0,NYG
+Konata Mumpfield,WR113,1764.0,LAR
+2027 Mid 4th,PICK,1753.0,FA
+Kalif Raymond,WR115,1738.0,CHI
+LeQuint Allen,RB77,1703.0,JAC
+Dont'e Thornton,WR117,1699.0,LVR
+2028 Early 4th,PICK,1691.0,FA
+2027 Late 4th,PICK,1674.0,FA
+Josh Cameron,WR120,1636.0,JAC
+Carson Beck,QB33,1604.0,ARI
+DJ Giddens,RB79,1586.0,IND
+Justice Hill,RB80,1578.0,BAL
+2028 Mid 4th,PICK,1571.0,FA
+Mack Hollins,WR122,1567.0,NEP
+Eli Heidenreich,RB81,1564.0,PIT
+Chris Brooks,RB82,1563.0,GBP
+Treylon Burks,WR125,1547.0,WAS
+Brashard Smith,RB83,1538.0,KCC
+Brenen Thompson,WR126,1537.0,LAC
+Mac Jones,QB37,1536.0,SFO
+Malik Benson,WR128,1497.0,LVR
+2029 Early 4th,PICK,1480.0,FA
+Geno Smith,QB38,1468.0,NYJ
+Jake Tonges,TE48,1458.0,SFO
+Andrei Iosivas,WR129,1434.0,CIN
+Matthew Hibner,TE51,1402.0,BAL
+Devontez Walker,WR133,1376.0,BAL
+Malik Davis,RB88,1368.0,DAL
+2029 Mid 4th,PICK,1364.0,FA
+Savion Williams,WR134,1360.0,GBP
+Ben Sinnott,TE52,1355.0,WAS
+2028 Late 4th,PICK,1350.0,FA
+Sione Vaki,RB89,1348.0,DET
+Jarquez Hunter,RB90,1348.0,MIA
+Tahj Brooks,RB91,1346.0,CIN
+Jaydon Blue,RB92,1332.0,PHI
+Jordan Whittington,WR135,1317.0,LAR
+Tommy Tremble,TE54,1288.0,CAR
+Efton Chism,WR140,1278.0,NEP
+Justin Joly,TE55,1268.0,MIA
+Ty Johnson,RB95,1257.0,BUF
+Colbie Young,WR142,1257.0,CIN
+Jahdae Walker,WR143,1255.0,CHI
+Cade Klubnik,QB42,1252.0,NYJ
+Jordan Watkins,WR144,1250.0,SFO
+Charlie Kolar,TE56,1231.0,LAC
+Jaleel McLaughlin,RB96,1220.0,CLE
+2029 Late 4th,PICK,1214.0,FA
+Marlin Klein,TE57,1211.0,HOU
+Samaje Perine,RB97,1202.0,CIN
+Malachi Corley,WR145,1199.0,CLE
+Tai Felton,WR146,1182.0,MIN
+Erick All,TE58,1178.0,CIN
+Kameron Johnson,WR147,1177.0,TBB
+Skyy Moore,WR148,1175.0,GBP
+KeAndre Lambert-Smith,WR149,1174.0,LAC
+Audric Estime,RB98,1162.0,MIN
+Trey Palmer,WR151,1151.0,NOS
+Olamide Zaccheaus,WR152,1147.0,ATL
+Jacob Cowing,WR153,1138.0,SFO
+Emari Demercado,RB100,1118.0,FA
+Joe Milton,QB46,1096.0,DAL
+Jimmy Horn,WR155,1094.0,CLE
+Cade Stover,TE59,1086.0,HOU
+Marcus Mariota,QB47,1081.0,WAS
+Jonathan Mingo,WR157,1070.0,DAL
+Deshaun Watson,QB48,1063.0,CLE
+Cody White,WR158,1062.0,LVR
+J'Mari Taylor,RB101,1057.0,JAC
+Isaac Guerendo,RB102,1052.0,SFO
+Quinn Ewers,QB49,1044.0,JAC
+Mitchell Evans,TE61,1044.0,CAR
+Daniel Bellinger,TE62,1039.0,TEN
+Jacob Saylors,RB103,1034.0,DET
+KaVontae Turpin,WR159,1023.0,DAL
+Tyler Badie,RB104,1021.0,DEN
+Elijah Higgins,TE65,1006.0,ARI
+Sam Roush,TE66,1006.0,CHI
+Rasheen Ali,RB105,1006.0,BAL
+Tyler Goodson,RB107,986.0,DAL
+Demarcus Robinson,WR160,981.0,SFO
+Greg Dortch,WR161,953.0,BUF
+Tyson Bagent,QB51,914.0,CHI
+Will Kacmarek,TE68,903.0,MIA
+Jalin Hyatt,WR165,899.0,NYG
+Javon Baker,WR166,882.0,SFO
+David Bell,WR168,877.0,CLE
+Davis Allen,TE69,876.0,LAR
+AJ Dillon,RB109,836.0,CAR
+Tanner Koziol,TE70,834.0,JAC
+Bam Knight,RB111,822.0,ARI
+Frank Gore Jr.,RB112,817.0,BUF
+Riley Leonard,QB52,814.0,IND
+Luke Schoonmaker,TE71,814.0,DAL
+Arian Smith,WR170,809.0,NYJ
+Gabriel Davis,WR171,798.0,BUF
+Drew Lock,QB54,790.0,SEA
+Israel Abanikanda,RB113,779.0,DAL
+Kalel Mullings,RB114,773.0,TEN
+Mason Tipton,WR172,771.0,NOS
+Kendall Milton,RB115,754.0,CIN
+Brevin Jordan,TE72,750.0,HOU
+Bo Melton,WR173,750.0,GBP
+Phil Mafah,RB116,737.0,NYG
+Xavier Gipson,WR174,723.0,PHI
+Reggie Virgil,WR175,712.0,ARI
+Brock Wright,TE73,704.0,DET
+Nick Westbrook-Ikhine,WR176,698.0,IND
+Jared Wiley,TE74,687.0,KCC
+Michael Carter,RB118,678.0,TEN
+Dylan Laube,RB119,673.0,LVR
+LaJohntay Wester,WR177,666.0,BAL
+Khalil Herbert,RB120,629.0,ATL
+Jeremy Ruckert,TE75,625.0,NYJ
+Jake Bobo,WR178,614.0,SEA
+Tyrell Shavers,WR179,610.0,BUF
+Johnny Wilson,WR180,604.0,PHI
+Foster Moreau,TE76,600.0,HOU
+Lil'Jordan Humphrey,WR181,558.0,DEN
+Tyler Johnson,WR182,558.0,NYJ
+Travis Homer,RB122,551.0,PIT
+Isaiah Hodgins,WR183,549.0,PIT
+Zamir White,RB123,546.0,NOS
+Derius Davis,WR184,538.0,LAC
+Tyler Huntley,QB57,504.0,BAL
+Adam Trautman,TE77,486.0,DEN
+Josh Oliver,TE78,467.0,MIN
+Jam Miller,RB127,462.0,ATL
+Sam Howell,QB58,455.0,DAL
+Kenny Pickett,QB60,444.0,CAR
+Grant Calcaterra,TE79,442.0,PHI
+Trey Lance,QB61,438.0,LAC
+Luke Altmyer,QB62,438.0,DET
+Aidan O'Connell,QB64,437.0,LVR
+Joe Flacco,QB65,436.0,CIN
+Tyler Conklin,TE81,436.0,DET
+Will Levis,QB66,432.0,NYJ
+Austin Hooper,TE83,432.0,ATL
+Tanner McKee,QB67,385.0,PHI
+Gardner Minshew,QB69,330.0,ARI
+Jack Strand,QB78,289.0,ATL
+Davis Mills,QB79,243.0,HOU
+Drew Allar,QB81,240.0,PIT
+Kyle McCord,QB83,230.0,MIA
+Stetson Bennett,QB88,210.0,LAR
+Case Keenum,QB99,190.0,CHI
+Taylen Green,QB100,177.0,CLE
+Cole Payton,QB104,162.0,PHI
